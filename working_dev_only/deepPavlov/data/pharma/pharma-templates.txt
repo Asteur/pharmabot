@@ -1,0 +1,18 @@
+welcomemsg	data = 'hello, what can I help you with today?'	answer_text = data
+check_update	data = 'ok, is there anything else to update?'	answer_text = data
+information_retrieval	data = 'ok, let me look in to that'	answer_text = data
+bye	data = 'no problem'	answer_text = data
+no_information	data = 'sorry, there is no information for that.'	answer_text = data
+request_information+<age_group>	data = 'for which age group?'	answer_text = data
+request_information+<condition>	data = '<drug_name> may not be recommended for people with <contraindications>, do you have any of these?'	answer_text = data
+request_information+<delivery>	data = 'what version of <drug_name> is that, for example: oral, intravenous or subcutaneous?'	answer_text = data
+request_information+<strength>	data = 'what is the strength of the drug?'	answer_text = data
+request_information+<symptom>	data = 'these are some common side effects of <drug_name>: <side_effects>, are you seeing any other symptoms?'	answer_text = data
+request_information+<units>	data = 'what are the units of the drug?'	answer_text = data
+information_retrieval+what_question	cur.execute("SELECT indication FROM Drugs WHERE name = '<drug_name>'")	answer_text = cur.fetchall()[0][0]
+information_retrieval+should_question	cur.execute("SELECT advice                          FROM Contraindications JOIN Drugs JOIN Conditions                          ON drug_id = Drugs.id AND condition_id = Conditions.id                         WHERE Drugs.name = '<drug_name>' AND Conditions.condition = '<condition>'")	answer_text = cur.fetchall()[0][0]
+information_retrieval+usage_question	cur.execute("SELECT instructions                          FROM Drug_versions JOIN Drugs JOIN Delivery                          ON drug_id = Drugs.id AND delivery_id = Delivery.id                         WHERE Drugs.name = '<drug_name>' AND Delivery.method = '<delivery>' ")	answer_text = cur.fetchall()[0][0]
+information_retrieval+dose_question	cur.execute("SELECT Drugs.name, dose, units, Periodicities.periodicity                         FROM Dosages JOIN Drugs JOIN Conditions JOIN Periodicities JOIN Delivery JOIN Ages                         ON Drugs.id = drug_id AND Periodicities.id = period_id AND age_id = Ages.id                         WHERE Drugs.name = '<drug_name>' AND Ages.age_group = '<age_group>' AND Delivery.method = '<delivery>'                          AND strength = '<strength>' ")	data = cur.fetchall(); answer_text = 'The dosage for %s is %s %s per %s' % data[0]
+information_retrieval+side_effect_question	cur.execute("SELECT Symptoms.symptom, Severities.severity, Drugs.name, advice                         FROM Complaint JOIN Drugs JOIN Symptoms JOIN Severities                          ON Drugs.id = drug_id AND Symptoms.id = symptom_id AND Severities.id = severity_id                         WHERE Drugs.name = '<drug_name>' AND Symptoms.symptom = '<symptom>' ")	data = cur.fetchall(); answer_text = '%s is a %s side effect of %s. %s' % data[0]
+information_retrieval+store_question	cur.execute("SELECT storage                         FROM Drug_versions JOIN Drugs JOIN Delivery                           ON Drugs.id = drug_id AND Delivery.id = delivery_id                          WHERE Drugs.name = '<drug_name>' AND Delivery.method = '<delivery>'")	answer_text = cur.fetchall()[0][0]
+information_retrieval+ingredient_question	cur.execute("SELECT ingredients                         FROM Drug_versions JOIN Drugs JOIN Delivery                           ON Drugs.id = drug_id AND Delivery.id = delivery_id                          WHERE Drugs.name = '<drug_name>' AND Delivery.method = '<delivery>'")	answer_text = cur.fetchall()[0][0]

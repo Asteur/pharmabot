@@ -1,0 +1,4 @@
+[submodule "deepPavlov/DeepPavlov"]
+	path = deepPavlov/DeepPavlov
+	url = https://github.com/deepmipt/DeepPavlov.git
+	branch = dialog

@@ -1,0 +1,1051 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Microsoft Office User</Author>
+  <LastAuthor>Microsoft Office User</LastAuthor>
+  <Created>2018-04-10T16:58:00Z</Created>
+  <Version>15.0</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+  <PixelsPerInch>96</PixelsPerInch>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>14920</WindowHeight>
+  <WindowWidth>27360</WindowWidth>
+  <WindowTopX>1440</WindowTopX>
+  <WindowTopY>2180</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="drugscomQA1-(Crawl-Run)---2018-">
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="200" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="16">
+   <Row>
+    <Cell><Data ss:Type="String">url</Data></Cell>
+    <Cell><Data ss:Type="String">Question</Data></Cell>
+    <Cell><Data ss:Type="String">Answer</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/effexor-xr-300-mg-daily-past-10-plus-years-3397978.html</Data></Cell>
+    <Cell><Data ss:Type="String">Effexor XR 300 mg daily for the past 10 plus years. Recently I have had a big decline in the effect?</Data></Cell>
+    <Cell><Data ss:Type="String">Hi, My! Unfortunately, it's not at all uncommon for antidepressants to &quot;poop out&quot; after long term usage... and 10 years is a long time. I don't know why, but I know they do. My Effexor pooped out after about seven years.&#10;You could ask your doctor about an add-on like Abilify or Rexulti which might booster the Effexor's effects, but you may need to consider switching to a different antidepressant.&#10;Too bad because it seems it worked well for you for so long.&#10;Best regards, Wildcat</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/baniva-4-years-recently-diiseads-chronic-743814.html</Data></Cell>
+    <Cell><Data ss:Type="String">I have taken Baniva 4 years, recently have diiseads chronic pancrease,it is the medicine problem ?</Data></Cell>
+    <Cell><Data ss:Type="String">You should discuss this with your Dr before stopping any medications on your own. Pancreatitis happens in people who are on no medications at all so it is not necessarily caused by your medications. Definitely DO NOT stop Norvasc without talking to your physician. If there is reason to stop, they will let you know and advise you how to do so. Ask your Dr about why you got chronic pancreatitis. He may or may not know. Sometimes people get pancreatitis for no apparent reasons. Pancreatitis may be caused by gallstones (by blocking the pancreatic duct outlet), chronic alcohol use, trauma, medications, infections, tumors, and genetic abnormalities. Chronic pancreatitis is inflammation of the pancreas that does not heal or improve - it gets worse over time and leads to permanent damage. Chronic pancreatitis, like acute pancreatitis, occurs when digestive enzymes attack the pancreas and nearby tissues, causing episodes of pain. Chronic pancreatitis often develops in people who are between the ages of 30 and 40.; The most common cause of chronic pancreatitis is many years of heavy alcohol use. The chronic form of pancreatitis can be triggered by one acute attack that damages the pancreatic duct. The damaged duct causes the pancreas to become inflamed. Scar tissue develops and the pancreas is slowly destroyed.; Other causes of chronic pancreatitis are; •hereditary disorders of the pancreas; •cystic fibrosis - the most common inherited disorder leading to chronic pancreatitis; •hypercalcemia - high levels of calcium in the blood; •hyperlipidemia or hypertriglyceridemia - high levels of blood fats; •some medicines; •certain autoimmune conditions; •unknown causes&#10;Hereditary pancreatitis can present in a person younger than age 30, but it might not be diagnosed for several years. Episodes of abdominal pain and diarrhea lasting several days come and go over time and can progress to chronic pancreatitis. A diagnosis of hereditary pancreatitis is likely if the person has two or more family members with pancreatitis in more than one generation.&#10;Treatment for chronic pancreatitis may require hospitalization for pain management, IV hydration, and nutritional support. Nasogastric feedings may be necessary for several weeks if the person continues to lose weight.; When a normal diet is resumed, the doctor may prescribe synthetic pancreatic enzymes if the pancreas does not secrete enough of its own. The enzymes should be taken with every meal to help the person digest food and regain some weight. The next step is to plan a nutritious diet that is low in fat and includes small, frequent meals. A dietitian can assist in developing a meal plan. Drinking plenty of fluids and limiting caffeinated beverages is also important.; People with chronic pancreatitis are strongly advised not to smoke or consume alcoholic beverages, even if the pancreatitis is mild or in the early stages.; Complications; People with chronic pancreatitis who continue to consume large amounts of alcohol may develop sudden bouts of severe abdominal pain.; As with acute pancreatitis, ERCP is used to identify and treat complications associated with chronic pancreatitis such as gallstones, pseudocysts, and narrowing or obstruction of the ducts. Chronic pancreatitis also can lead to calcification of the pancreas, which means the pancreatic tissue hardens from deposits of insoluble calcium salts. Surgery may be necessary to remove part of the pancreas.; In cases involving persistent pain, surgery or other procedures are sometimes recommended to block the nerves in the abdominal area that cause pain.; When pancreatic tissue is destroyed in chronic pancreatitis and the insulin-producing cells of the pancreas, called beta cells, have been damaged, diabetes may develop. People with a family history of diabetes are more likely to develop the disease. If diabetes occurs, insulin or other medicines are needed to keep blood glucose at normal levels. A health care provider works with the patient to develop a regimen of medication, diet, and frequent blood glucose monitoring.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/codemol-back-pain-discovered-3-months-pregnant-743818.html</Data></Cell>
+    <Cell><Data ss:Type="String">I took co-codemol for back pain and have just discovered I am 3 months pregnant ..is this harmful?</Data></Cell>
+    <Cell><Data ss:Type="String">If you aren't taking it on a regular basis, you should be ok, but be sure to tell your obstetrician that you took it before you knew you were pregnant. Many women do things before they know they're pregnant that wouldn't have done otherwise, and most babies do ok.; I was on Vicodin early in my second pregnancy before I knew I was pregnant and my baby was fine. Like KM says, be sure to let your Dr know. If you still need the medication, ask if it is ok to take it. If he says no then dont take anymore. It is most dangerous when taken for long periods of time close to delivery because your baby can be born dependent and may have withdrawals. If you can stand it, it is best not to take anything when you are pregnant. Some medications can be used under the supervision of your OB so be sure to discuss it with him/her. Congratulations on your coming little one!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/pituary-surgery-remove-tumor-master-gland-body-743842.html</Data></Cell>
+    <Cell><Data ss:Type="String">I had pituary surgery to remove a tumor. As the master gland my body no longer produces cortizone?</Data></Cell>
+    <Cell><Data ss:Type="String">No as you have to replace cortisone that your body doesn't produce. Doing that alters the response to it in that its a hormone you need, not one you're taking over what you already have. In this way, its side effects are less. It could very easily have nothing to do with the diabetes. And 5mg is a tiny dose.; Hello. Long term prednisone can produce medically induced diabetes. It can be controlled with diet or insulin. However, at 5mg without the additional hormone production of the body, it would be minimal influence. If you have experienced weight gain during these years, that alone could push you into diabetes. Say you gained thirty pounds in thirty years. That would do it. If very slow weight gain, it would sneak up on you.; I have read about this condition regarding tumors of the pituitary. There are additional hormones you take, aren't there? They may be a combination of med that can cause the diabetes. What is your endocrinologist saying about this? Regardless of these, control of diabetes at any level is essential. Borderline does have to be treated so that if you become ill or harmed, you can heal faster.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/question-clentel-743869.html</Data></Cell>
+    <Cell><Data ss:Type="String">Clentel, what does it do?</Data></Cell>
+    <Cell><Data ss:Type="String">There really is no other drug that works exactly like coumadin, but the new ones, which work later in the clotting process are effective. I cannot find any medication by the name you are giving however.; There are several alternatives to people with Coumadin allergy. Asprin, Plavix, Lepirudin, and Dalteparin are just some of those. Plavix is very effective in clots associated with atrial fib. So there are alternatives. Explore with your Dr these possibilities.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/right-dose-absect-tooth-iam-taking-743931.html</Data></Cell>
+    <Cell><Data ss:Type="String">What's the right dose for my absect tooth iam taking?</Data></Cell>
+    <Cell><Data ss:Type="String">The right dose would be the dose the dentist told you to take. If you do not understand the instructions, call your pharmacist.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/husband-developed-skin-rash-cytoxan-he-multiple-743950.html</Data></Cell>
+    <Cell><Data ss:Type="String">My husband has developed the skin rash from the cytoxan he is on for multiple myeloma. Are there?</Data></Cell>
+    <Cell><Data ss:Type="String">henrym52,&#10;Does your husband's doctor know about the rash? Where is the rash? If it is someplace other than his face, he can soak in a bath with epsom salts or oatmeal. They will ease the itch. Benadryl would be beneficial for the rash and itch, as well. According to drugs.com interactions checker, benadryl does not cause any interactions with the drugs your husband takes. I would start at 25mg of benadryl and if necessary, increase to 50mg. He should take it exactly as directed on the box/bottle. I have multiple myeloma, too, but was never given Cytoxan. I got Thalidomide and Velcade with either Dex or Decadron. My doctor ordered that I take benadryl before every infusion. You should talk to his doctor about this rash. Watch for swelling of the face, neck, tongue, lips. If this swelling occurs, get him to an ER immediately. I recommend that you read what drugs.com says about Cytoxan on the above drop-down link, Drugs A-Z. There is quite a long list of side effects, some common and some serious. It's best to be well informed. I hope this helps and I hope your husband's treatments are as successful as mine have been &#45;&#45;- I'm a 9-1/2 year survivor! Best wishes.&#10;Kathy; Is he allergic to sulfa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/narcolepsy-cataplexy-anyone-noticed-symptoms-below-743954.html</Data></Cell>
+    <Cell><Data ss:Type="String">Narcolepsy with cataplexy has anyone noticed the symptoms below and what did they do?</Data></Cell>
+    <Cell><Data ss:Type="String">What did the people at the Xyrem Support Team say? I am just starting at this process and it says in the literature, plus they told me, that they are available almost 24:7. I would call and ask them / it seems to be how you and your doctor keep in touch to adjust dosages. I'm no professional, but I think the Dexadrin may be causing the problem. Either contact your doctor or the Support Support / or both. Regards - EJ23; It's been a while since you posted this. Is Xyrem working for you?</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/pregnancy-you-start-eating-isotretinoin-10g-jun-743957.html</Data></Cell>
+    <Cell><Data ss:Type="String">Pregnancy - I would like to ask you to start eating Isotretinoin 10g on jun 14 until June 21 stop?</Data></Cell>
+    <Cell><Data ss:Type="String">If by 5th of July you found out that you were pregnant ... then the risks of having isotretinoin's effect on the baby is high.; https://www.drugs.com/pregnancy/isotretinoin.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/yeast-infection-744094.html</Data></Cell>
+    <Cell><Data ss:Type="String">Yeast infection?</Data></Cell>
+    <Cell><Data ss:Type="String">I know it's difficult but may be advisable to see a doctor, for a swab to be taken it properly identify what may be causing the itching. It may be an yeast infection or it could be something else. Delaying getting treatment may make the symptom or condition worse.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/82-yrs-synvisc-shots-knees-synvisc-shot-744099.html</Data></Cell>
+    <Cell><Data ss:Type="String">I am 82 yrs old&#45;&#45;-I've had synvisc one shots in both knees it did not help I had a synvisc one shot?</Data></Cell>
+    <Cell><Data ss:Type="String">Absolutely, you can try again. Synvisc injections are normally given in sets of three. One injection doesn't normally build up enough of a cushion to be of much help. One injection, once a week, allows the fluid to spread and settle. The following injection will build on the previous one, building more of a cushion. The third injection finishes thickening the cushion. Of course, if you're down to walking &quot;bone on bone&quot; then the injections will not work anywhere near as well as they will if you still have some natural cartilage left in the joint. I hope this helps and encourages you to try again!&#10;Lisa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/sex-2-weeks-ago-tests-perform-check-hiv-negative-744121.html</Data></Cell>
+    <Cell><Data ss:Type="String">I had sex about 2 weeks ago. What tests to perform to check whether I am HIV negative?</Data></Cell>
+    <Cell><Data ss:Type="String">You need to go to your doctor and have him/her do an HIV screen and a western blot test. if you are HIV positive both of these tests will be a (+), but if the HIV screen comes back (+) but the western blot test comes back( -), then there is a 50/50 chances you do or don't, so they will draw new blood and do further testing to see if you have any antibodies, and other HIV/AIDS germs. I know this, because that is what happened with me. turns out with all of the different tests performed on me, I finally get my result! I am 100% HIV (-). but it sure is a very scary thing, waiting around for the results!!! All you can do while you wait is pray! please make sure you go to your doctor and get tested! good luck to you my friend!!; -</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/latest-medicine-against-diabetic-2-744161.html</Data></Cell>
+    <Cell><Data ss:Type="String">Latest medicine against diabetic 2?</Data></Cell>
+    <Cell><Data ss:Type="String">Wow that is a loaded question that can not be done justice in this space. Mayo clinic is having a hard time keeping up with all the new drugs. The best things are things you can control like diet and weight. Frequent blood sugars and keeping it under 110. American diabetic Association has tons of stuff on their website and material you can order. And finally nothing can beat a good diabetic Dr.; Medications for diabetes control can be expensive. So can the test strips, needles or syringes and so forth. The best savings are diet, exercise, weight control amd knowledge. Type2 diabetes can be controlled if weight is normal and diet is careful. Something we can all do. Relying upon a medicine to correct our over eating just doesn't make sense. I take insulin because of medically induced diabetes type2. Am allergic to the current medications. My choice is simple and I have become accustomed to this. Something to consider when looking at a different medication.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/severe-back-problems-taking-oxycontin-80mg-4-day-744177.html</Data></Cell>
+    <Cell><Data ss:Type="String">I have severe back problems &amp; I was taking oxycontin 80mg x 4 a day?</Data></Cell>
+    <Cell><Data ss:Type="String">Short answer - the Oxycontin were being abused by some pain sufferers so the reformulated, hard shell is here to stay unfortunately. Have you discussed other pain med options with your doctor? Something that will actually dissolve and help your pain?; I can tell you that the Oxycontin brand formulation is far more potent than the regular IR 30/40/60/etc.This is well known, if you body wasn't breaking down the OP version naturally, their are some known supplements that will help it breakdown better in your stomach/digestive system. Acidity drinks, grapefruit juice, orange juice, and other fruit-juices will most definitely speed the breakdown of the time release. I personally drink red bull, this not only helps speed up the release, but the delivery of it as well.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/pravastatin-makes-you-hungry-744178.html</Data></Cell>
+    <Cell><Data ss:Type="String">Do pravastatin makes you hungry?</Data></Cell>
+    <Cell><Data ss:Type="String">Dizziness is a common side effect of pravastatin. Increased appetite is not stated as a side effect ... it can more commonly cause anorexia. But I suppose it could be possible.; https://www.drugs.com/sfx/pravastatin-side-effects.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/chlorhexidine-works-oral-cavity-dose-744186.html</Data></Cell>
+    <Cell><Data ss:Type="String">How chlorhexidine works in oral cavity and what is dose?</Data></Cell>
+    <Cell><Data ss:Type="String">Chlorhexidine gluconate is a germicidal mouthwash that reduces bacteria in the mouth.; Chlorhexidine gluconate oral rinse is used to treat gingivitis (swelling, redness, bleeding gums). Chlorhexidine gluconate is usually prescribed by a dentist.; Chlorhexidine gluconate oral rinse is not for treating all types of gingivitis. Use the medication only to treat the condition your dentist prescribed it for. Do not share this medication with another person, even if they have the same gum symptoms you have.; https://www.drugs.com/mtm/chlorhexidine-gluconate-oral-rinse.html; ALSO; Chlorhexidine gluconate oral rinse provides antimicrobial activity during oral rinsing. The clinical significance of chlorhexidine gluconate oral rinse’s antimicrobial activities is not clear. Microbiological sampling of plaque has shown a general reduction of counts of certain assayed bacteria, both aerobic and anaerobic, ranging from 54-97% through six months use.; Use of chlorhexidine gluconate oral rinse in a six month clinical study did not result in any significant changes in bacterial resistance, overgrowth of potentially opportunistic organisms or other adverse changes in the oral microbial ecosystem. Three months after chlorhexidine gluconate oral rinse use was discontinued, the number of bacteria in plaque had returned to baseline levels and resistance of plaque bacteria to chlorhexidine gluconate was equal to that at baseline.; https://www.drugs.com/pro/superdent-chlorhexidine-gluconate-oral-rinse.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/sulindac-considered-narcotic-744189.html</Data></Cell>
+    <Cell><Data ss:Type="String">Is sulindac considered a narcotic?</Data></Cell>
+    <Cell><Data ss:Type="String">No, it is an NSAID in the same family as ibuprofen or aleve. Not every pain medications is a narcotic.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/pregnancy-13week-pregnant-feeling-very-weakness-744200.html</Data></Cell>
+    <Cell><Data ss:Type="String">Pregnancy - Im 13week pregnant. feeling very weakness nd b.p low.can I take evion? is it safe?</Data></Cell>
+    <Cell><Data ss:Type="String">See a dr. You could be very anemic. You will need a prenatal vitamin with iron. But a dr needs to see you if you are having so much of a problem.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/norco-recommend-stool-softener-colace-product-744210.html</Data></Cell>
+    <Cell><Data ss:Type="String">Why does Norco not recommend using a stool softener such as Colace with their product?</Data></Cell>
+    <Cell><Data ss:Type="String">Not everyone that is prescribed Norco will experience constipation.; Also that is what docs and pharmacists are for.; Dear allie95, I personally do not know why norco does not recommend using a stool softener with their product, I am assuming that there is a possibility of interaction. I don't think that the fact that not everyone experiences constipation with the use of norco is relevant to your question either. But since it seems no one here has been able to answer your question directly, it would be best to consult a doc as the page you were referencing suggested. I hope you get the information you are looking for. Best wishes ~anjeegyrl :)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/neurontin-creatin-involvement-cramping-statins-744213.html</Data></Cell>
+    <Cell><Data ss:Type="String">Can Neurontin cause creatin involvement ie cramping the way statins do with me?</Data></Cell>
+    <Cell><Data ss:Type="String">Hi Elaine,&#10;Yes, your calf cramping and stiffening is probably from your Neurontin/gabapentin. This is a side effect that may need quick attention. Call your doctor as this is one of the dangerous side effects of gabapentin, rigidity of muscles. You can't stop Neurontin cold turkey or abruptly, as it could potentially cause a seizure, but you could lower the dose, but PLEASE, call your doctor even if it is the Fourth.; Are you having any of the following; heart arrhythmia, anxiety or agitation, confusion or cognitive impairment, loss of appetite, weakness, feeling restless, memory problems, easy bruising, menstrual cramps, or stomach pain?&#10;If you are, please please call that doctor straight away, she/he will cut your dose, most likely. &#10;Best wishes and not to panic, none of this is truly horrifying just annoying as heck! But the muscle rigidity can be very painful!&#10;Lara&#10;P.S. I've just gone thru this myself, so I know how it feels.; When you see the doctor, be sure to have a blood test to measure Vit D levels, calcium, magnesium electrolytes. When taking medications and dealing with pain, these areas are easily depleted. They are also leading causes for general leg cramping. Once I got enough of these and in balance, even with my muscle disease, I no longer experience leg and foot cramps. I have been on gabapentin. Discuss. This with your physician as it may be the source of all that cramping and not medications.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/protected-after-plan-unprotected-sex-3days-744218.html</Data></Cell>
+    <Cell><Data ss:Type="String">Can I still protected after I took plan b and had unprotected sex 3days later?</Data></Cell>
+    <Cell><Data ss:Type="String">No, it is not effective for sex that is after you took the pill. Stop using it as regular birth control, its not meant for that, is only 80% effective and a regular birth control pill is 99% effective. Plan B is meant for emergencies like the condom broke or in cases of rape, not to use because oops you forgot a condom.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/deplin-delphin-sleep-744232.html</Data></Cell>
+    <Cell><Data ss:Type="String">Deplin - delphin and sleep?</Data></Cell>
+    <Cell><Data ss:Type="String">Its just folate, a nutritional supplement. Take it in the am if it perks you up before bed.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/spironolactone-muscle-weakness-pain-joints-744248.html</Data></Cell>
+    <Cell><Data ss:Type="String">Can spironolactone cause muscle weakness and pain in the joints?</Data></Cell>
+    <Cell><Data ss:Type="String">Any drug has side effects that may be unique to that person. Call your Dr and let them know what it is doing to you. Also Pharmacist are great resources concerning side effects if you cannot talk to your Dr.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/triphasil-period-due-3-weeks-time-start-744256.html</Data></Cell>
+    <Cell><Data ss:Type="String">I would like to take Triphasil but my period is only due in 3 weeks time. Can I start with it in?</Data></Cell>
+    <Cell><Data ss:Type="String">You can start it now. However, because your period is due in 3 weeks it may come a little early on the pills, instead of waiting until the inactive pills. Its not a bad thing, just something you should know. Your body will get it straight. If you start it like it says to you will stay in the same cycle and confuse your body. Be sure to use a condom for the first 7 days.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/passion-flower-zoloft-744281.html</Data></Cell>
+    <Cell><Data ss:Type="String">Can passion flower be taken with Zoloft?</Data></Cell>
+    <Cell><Data ss:Type="String">It sounds like he's stuck, he needs the zoloft but it makes the ocd worse. Have they ever tried the old tried and true paxil for him? It is for both ocd and depression. I've seen patients who had been on it be changed to lexapro and they got really bad with ocd again. Passion flower and a med like zoloft together could cause increased drowsiness and decreased breathing. If you try it, do it when he can be watched for effects.; I'd speak with his psychologist but I take medications similar and if you search for interactions between the 2 it basically says it may increase the side effects of the prescription medication such as drowsiness, fatigue etc which I'm ok with since I take them both at night and would prefer to sleep well so drowsiness would help! But I'd say research appropriate dosages for passionflower (Dr. Axe's site has info!) And usibg those guides just give it a shot and keep a journal of any complaints or side effects he has for which dose and adjust uo or down depending on how it is going. The max dose is a few grams so ease him on it and slowly increase if he is tolerating it well!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/after-chronic-pancrease-long-744300.html</Data></Cell>
+    <Cell><Data ss:Type="String">After got chronic pancrease, normally how long they can have?</Data></Cell>
+    <Cell><Data ss:Type="String">Hi Jie. Do you mean how can a person have chronic pancreatitus? When I had pancreatitis, I was in the hospital for over a week. It took about 3 weeks for the pain to go away and I could eat. I believe you need to talk to your doc as soon as possible. I'm not trying to scare you. Heck, I don't even know if I read your question right. What your talking about, I think, is pancreatitus.&#10;Get back with me if you haven't found the answer to your question. We'll work through this together.&#10;pickles503; According to one website you (and I) can expect to pass away 10 to 20 years earlier than a healthy person, some websites put it shorter and some say no difference.; Me, I believe it depends on how bad your condition is. I now have diabetes and osteoporosis as complications, in addition to consistently having severe vitamin deficiencies. So, I expect my life to be on the shorter end of those predictions...; Now for some good news, a research lab has developed a medical 3d printer and have already printed a small scale printed pancreas and other researchers have developed mechanical systems to manage diabetes. This will likely mean no real difference in life span. Last months nuts and volts had an article on the 3d printer. And then there is the recent advances in stem cell research. We live in a remarkable time and should never lose hope that things are always becoming better. All the life span studies are from before any of these break throughs.; Jon; I was diagnosed with Chronic Pancreatitis almost 6yrs ago and have been suffering horribly since with little to no help or support from anyone in the medical profession (dr's, hospitals,clinics,etc). I have lost 70+lbs and changed my diet drastically. My suggestions are to cut out red meats, spicy, acidic, processed, fatty, fried, raw veggies, alcohol especially). I am basically having chicken, pasta, soups,cereal, crackers, etc). Very bland. My condition is genetic though. I am here for support and suggestions (given by and TO me). People just don't understand the extreme pain and suffering as a result of this condition so i not only offer but am open to the mutual support available. God bless you and keep in touch.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/assistance-paying-imuran-744318.html</Data></Cell>
+    <Cell><Data ss:Type="String">Is there assistance in paying for Imuran?</Data></Cell>
+    <Cell><Data ss:Type="String">Go to this website, it has info to get 75% off.//rxreliefcard.com/new_alternate_discounts- There are other places to seek help, he can try any of these The CoPay Relief Program 1-866-512-3861 or www.copay.org; or Suddenly Senior www.suddenlysenior.com/patientassistantprograms.html; or Needy Meds www.needymeds.org; and Partnership for Prescription Assistance 1-888-477-2669 or www.pparx.org www.freemedicine.com www.access2wellness.com&#10;www.benefitscheckup.org/cf/index.cfm?partner_id=22&#10;It also comes in generic which is very much less in cost.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/everyminute-hard-anxiety-744323.html</Data></Cell>
+    <Cell><Data ss:Type="String">Everyminute is hard with anxiety?</Data></Cell>
+    <Cell><Data ss:Type="String">Are you trying them long enough? Most of them make the anxiety worse before it gets better. They don't reach full effect for 4-6 weeks.You might try talking to your dr about something like hydroxyzine to take as needed for anxiety. Its an antihistamine but it helps allot of people.; Hello. Paxil/Paroxetine is very effective in treating anxiety disorders. Be it for panic attacks, GAD etc. Hopefully you will do well on it. Regards pledge; I know how hard it is for you, in fact painful. I've felt hopeless and actually took myself to the hospital. Tried a little of everything myself and finally feel&#10;pretty good on 37.5 of Effexor and 100 of Lamictal but it took 3 years of trying different meds. Xanax gave me some relief. You may not feel like it but getting out helps, especially with other people. Walking is a good natural release. In my case, prayer was a big part of my life.; Cymbalta made me so depressed and my anxiety went through the roof. My doc has me on Sertraline and it is working much better so far.&#10;All you can do is keep trying til you hit the right med. &#10;I know it is hard but it is not hopeless and you are not hopeless either.&#10;I have some pretty strange reactions to meds - as in they effect me opposite to what they are supposed to do - so don't give up.&#10;Take care; I have been on many medications; everyone is and individual as and individual not one medication will work for everyone... it's very difficult to find the correct meds. It is very frustrating! I know in my own life experiences. .. not giving up is the key! The key to open the new door to the HOPEFUL positive LIFE! Since, I was 14-5 yrs old I went through many doctors I found my current doctor to see the light!; KEEP HOPE A LIVE! &#10;TAKE CARE! GOD BLESS!&#10;Danie</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/anxiety-hope-you-enjoying-4th-anyone-feel-sad-744388.html</Data></Cell>
+    <Cell><Data ss:Type="String">Anxiety - Hi all, hope you are enjoying the 4th. Does anyone else feel sad, like they can't?</Data></Cell>
+    <Cell><Data ss:Type="String">Yes I do. And I did the same thing for many many years. And I can tell you that the worst person to let down is yourself. I don't think you let people down even tho you might feel like this. I used to think that too, until I after many years asked a few people I trusted if I had let them down. It was all in my head. Hope you get better, because it is horrible to feel like this!; Yes I understand how you feel too ChelleKay&#10;Holidays are very hard emotionally and I tend to expect the worse to happen and for me to screw up somehow and I do because I am so anxious about it. I don't have Crohns but I do have IBS and a friend with Crohns. Anxiety is the worst thing for both of them so somehow I need to stop myself from getting so worried about everything to do with a holiday. &#10;I have done the isolating thing too but then everyone worries about me so that really wasn't the answer either. &#10;Have you talked to your Crohns doctor to see what he/she suggests? It can't hurt to ask and maybe there is an answer for you.&#10;Take care and Happy Independence day; I totally understand! I've avoided many social situations because if pain and depression. Even planning to get together gives me stress and anxiety then when the actual event arrives, I usually don't want to go or find an excuse to back out. I do some things because of my kids but not as much as I should. I get easily irritated, cranky - would rather stay home many times! This website has helped me a lot, thanks to everyone for making me feel not so isolated because my family and friends dont understand! Thank you for expressing yourself on here! Christmas is my worst times - I watch my kids open gifts then go back to bed most of the day, I get so depressed. Why? Maybe this year will be different?'</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/hydroxychloroquine-ake-15mg-meloxicam-plaquenil-744402.html</Data></Cell>
+    <Cell><Data ss:Type="String">Hydroxychloroquine - Is it ok to ake a 15mg of Meloxicam while on Plaquenil (during a flare up)?</Data></Cell>
+    <Cell><Data ss:Type="String">It is quite common for patients to take NSAIDs or other anti-inflammatory drugs with Hydrochloroquine. I would think it would be safe in the absence of liver disease but I don't know for certain. Your doctor might ask you to wait 6 months after beginning Hydrochloroquine before adding other drugs in order to determine how effectively Hydrochloroquine is working for you. You should always consult your doctor before adding or removing any meds. They carefully plan a combination of drugs for specifically for you. Best of luck!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/omeprazole-constipation-744437.html</Data></Cell>
+    <Cell><Data ss:Type="String">Can I use omeprazole for constipation?</Data></Cell>
+    <Cell><Data ss:Type="String">Omeprazole won't really help for constipation.; Omeprazole is in a group of drugs called proton pump inhibitors. Omeprazole decreases the amount of acid produced in the stomach.; Omeprazole is used to treat symptoms of gastroesophageal reflux disease (GERD) and other conditions caused by excess stomach acid. Omeprazole is also used to promote healing of erosive esophagitis (damage to your esophagus caused by stomach acid).; Omeprazole may also be given together with antibiotics to treat gastric ulcer caused by infection with helicobacter pylori (H. pylori).; Omeprazole is not for immediate relief of heartburn symptoms.; https://www.drugs.com/mtm/omeprazole.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/normal-doseage-xanax-744439.html</Data></Cell>
+    <Cell><Data ss:Type="String">What is the normal doseage for xanax?</Data></Cell>
+    <Cell><Data ss:Type="String">It completely depends upon the level of anxiety being treated. Generally starts at .25mg up to 3 times a day. Depending on how that works, it can be raised slowly. As it is highly addictive it is not to be played with by changing dosing without the doctor; Hi I save my xanax for emergencies because it is so addictive. You might want to ask your doctor for something to help you that you can take other than xanax. Just a suggestion.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/belviq-side-effects-744454.html</Data></Cell>
+    <Cell><Data ss:Type="String">Belviq side effects?</Data></Cell>
+    <Cell><Data ss:Type="String">I've been taking it for about 6 days. But not right on schedule. I've not felt a cool feeling in my head, nor a headache. But I have felt a little disoriented and not able to think as clear as I usually do. Plus I've started a new position at my job and am having a hard time grasping it. Don't know if I should stop taking it or continue taking it and see what happens.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/suphedrine-pe-sinus-medicine-antibiotic-sulfameth-744540.html</Data></Cell>
+    <Cell><Data ss:Type="String">Can I take Suphedrine PE Sinus medicine with the antibiotic sulfameth/Trimethoprim 800/160?</Data></Cell>
+    <Cell><Data ss:Type="String">There are no major reported problems for these two drugs, so take as directed.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/flagyl-treat-mild-diverticulitis-744630.html</Data></Cell>
+    <Cell><Data ss:Type="String">Is Flagyl just by itself enough to treat mild Diverticulitis?</Data></Cell>
+    <Cell><Data ss:Type="String">It could be although it will depend on what bacteria are present. Make sure you drink plenty of water and try increasing the amount of fiber in your diet. Heat applied to the sore area may also help.&#10;For more information see: https://www.drugs.com/cg/diverticulosis.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/sertraline-days-nice-thing-1st-time-20-30-744642.html</Data></Cell>
+    <Cell><Data ss:Type="String">I've been on Sertraline for four days now. One nice thing is that for the 1st time in 20 or 30?</Data></Cell>
+    <Cell><Data ss:Type="String">Talk to your mental health care worker and discuss your problem. Also pharmacists can be a great resource for medication side effects. If they do not know talk to your Dr. Zoloft can induce suicidal thoughts in some so if this occurs please notify your Dr immediatly</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/far-apart-child-childrens-benedryl-after-taking-744649.html</Data></Cell>
+    <Cell><Data ss:Type="String">How far apart and how often can child take childrens benedryl after taking morning dose of zyrtec?</Data></Cell>
+    <Cell><Data ss:Type="String">Try to space it out as much as possible ... maybe 8 to 12 hours at least. But if absolutely necessary as sometimes they work better in combination, adjust the doses and you could give it sooner. The link below states the side effects ... so check for drowsiness, etc.; https://www.drugs.com/interactions-check.php?drug_list=896-1617,569-286</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/phentermine-friend-hospital-she-experienced-744652.html</Data></Cell>
+    <Cell><Data ss:Type="String">Phentermine - I have a friend who is now in the hospital. She experienced what we thought was a TIA?</Data></Cell>
+    <Cell><Data ss:Type="String">(phenteramine) is a appetite suppressant which means people take it to lose weight. It can cause a dangerously high blood pressure which in turn can be a reason for the stroke so the answer yes it can indirectly cause stoke, Sorry about your friend I hope they get well; Your friend, having had a TIA, has about a 35% chance of having a full stroke within the next 5 years. So be sure that she talks to a doctor about things that she should do to avoid having that stroke. The doctor will probably tell her to monitor her blood pressure and not to smoke. There are other things as well. Plus have her tell her family to watch out for any stroke symptoms. I am very tuned in to my body and didn't have any idea that paralysis on one side of my body and not being able to talk were major red flags. Strokes can impair any judgment. So it's important for anyone close to her to know to call an ambulance immediately so that she can possibly get a medication which will undo the stroke disabilities. Good luck to her.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/crohns-28-yrs-humira-prednisone-744679.html</Data></Cell>
+    <Cell><Data ss:Type="String">I have had Crohns for 28+ yrs and am currently on Humira &amp; Prednisone , which I can't get off of?</Data></Cell>
+    <Cell><Data ss:Type="String">I understand the long term prednisone. I take Med's to counter the side effects. Antidepressant and Xanax for anxiety attacks. I have had one ischemic colitis and continuing anal tears and bleeding. This can be pretty ouchy, for lack of a better term. 8 years has been no picnic. I can only say that 28 makes you some kind of poster gal! I went back to 40mg because of flaring. Hospital stay I just can't deal with anymore. Just did about 36 hours. They said I could stay longer. Rather be home. I still have deep veins that they poke. Another ouchy event. They were rather concerned for looking for those abscess as I have some type of infection and they haven't found it. I, too, would like to know more about this. Hoping that we have someone with info. Sorry you are dealing with all of this. I flare under 15 but we stay there as long as we can. I got my face almost back to normal! By tomorrow I will look a hundred pounds overweight again. Hang in there. We are still here! Karen</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/maalox-diarrhea-744687.html</Data></Cell>
+    <Cell><Data ss:Type="String">Will/ or can maalox cause diarrhea?</Data></Cell>
+    <Cell><Data ss:Type="String">Yes, Maalox can cause diarrhea.; It can cause constipation or diarrhea ... for different individuals.; https://www.drugs.com/sfx/aluminum-hydroxide-magnesium-hydroxide-side-effects.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/taking-ambien-over-year-65-many-nights-744737.html</Data></Cell>
+    <Cell><Data ss:Type="String">I have been taking ambien for over a year. I am 65. There are many nights when I take it that I can?</Data></Cell>
+    <Cell><Data ss:Type="String">This is just a suggestion but have your Dr prescribe the extended release version. It may help you sleep better.; Hi JaneyButtermore and welcome to DC. If you are having that much trouble falling asleep... it may be time for a switch.; I am one of those people who did bizarre things while taking ambien and was still tired in the morning. The reason I was tired in the morning was due to what I was doing at night instead of sleeping but didn't remember doing those things. I also did late night shopping, which resulted in a lot of friction between my ex-husband and myself. I ended up having to file bankruptcy. It so wasn't worth what happened.; Take good care of yourself... there is better stuff out there that helps you fall asleep and also stay asleep. I take 1mg of Ativan plus 50mg of Elavil. The Elavil is one of those meds that has a side benefit. It helps with nerve pain and it makes me tired.; And on that note... I am going to bed because everything I took is working like it should.; Mary</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/morphine-sulfate-er-interaction-warfin-morphine-744744.html</Data></Cell>
+    <Cell><Data ss:Type="String">Morphine Sulfate ER - what interaction does warfin and morphine have?</Data></Cell>
+    <Cell><Data ss:Type="String">There is no interaction between them.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/dexilant-30mg-daily-744755.html</Data></Cell>
+    <Cell><Data ss:Type="String">Can I take dexilant 30mg twice daily?</Data></Cell>
+    <Cell><Data ss:Type="String">You should take no more then your dr has prescribed. If its not helping, call him and get it changed.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/home-remedy-eye-pain-flash-burn-744807.html</Data></Cell>
+    <Cell><Data ss:Type="String">Is there a home remedy for eye pain from flash burn?</Data></Cell>
+    <Cell><Data ss:Type="String">Can you make an eye-patch for him? Also, have him rinse his eye in cold water, but he needs to be seen by a doctor, has he? IF he did this at work then his job must pay for the medical bills. He really needs to see a doctor, he can at the very least get some pain medication to help him be comfortable until his eye is all healed up.&#10;Hope he is better by the time you read this.&#10;Lara; Ive been there time and time again cut slice of potatoe and have him press it on his eye that is the remedy I used and trust me it worked regards eric owens; A cold washcloth on his eyelids would help too. Why wasn't he wearing goggles?; It may sound Grose but the best relief I've found other than going to the er is urinating on a cold damp towel then covering your eyes I don't know y maybe the pee's pH is right for ur eyes as long as it is your own. Or just don't weld</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/beconase-aq-prescribed-beconase-chronic-744832.html</Data></Cell>
+    <Cell><Data ss:Type="String">Beconase AQ - hi I have been prescribed beconase for chronic rhinosinusitis. after suffering ear?</Data></Cell>
+    <Cell><Data ss:Type="String">Hi kath2132&#10;I suffer from allergic sinusitis I think this is the same thing you are dealing with.&#10;I take fluticasone brand name Flonase a similar product to the one you are taking..and over time it helped me..it did not worsen my symptoms&#10;I am not a healthcare professional but perhaps you developed an infection?&#10;I get them once in a while not uncommon in people with stuffed up sinuses like you and me!&#10;Hope you feel better soon!&#10;Sincerely.&#10;Jerry; Sincerely</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/best-drug-generalized-anxiety-disorder-social-744881.html</Data></Cell>
+    <Cell><Data ss:Type="String">What is the best drug for generalized anxiety disorder &amp; social phobia?</Data></Cell>
+    <Cell><Data ss:Type="String">This is specific to the individual and based upon a thorough diagnostic analysis. The balance for one may be very different for another. Whether or not therapy is effective also matters. Side effects are taken into account. So are addictive properties.; Hi Drmazarei,&#10;I am struggling with the same issues you are..&#10;Like the previous response everyone is different&#10;Effexor seems to be a drug of choice for social phobia I take 37.5mg er of this daily&#10;Buspar helps many people with GAD I take this also..however..many people do not respond to buspar at all&#10;There are many meds used for these conditions and you need to talk with your Doctor and perhaps try several meds before finding the right med for you&#10;Take care,&#10;Jerry</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/dilantin-show-pre-employment-drug-screen-744891.html</Data></Cell>
+    <Cell><Data ss:Type="String">Does Dilantin show up in a pre employment drug screen?</Data></Cell>
+    <Cell><Data ss:Type="String">Dilantin only shows up if they are doing a blood test for it specifically to check your level. In an employment test they are looking for the drugs that are commonly abused. Dilantin is a seizure med, not a narcotic.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/gemcitabine-bones-sore-you-happen-gemzar-744922.html</Data></Cell>
+    <Cell><Data ss:Type="String">Gemcitabine - My bones are sore. Have any of you had this happen with Gemzar?</Data></Cell>
+    <Cell><Data ss:Type="String">Although bone pain has not been noted as a known side effect, it may be possible as a lot of chemotherapy medicines have this side effect.; Gemzar can also cause flu like symptoms, which could include bone pain, myalgia.; https://www.drugs.com/sfx/gemzar-side-effects.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/colestipol-developed-severe-bruising-bleeding-744925.html</Data></Cell>
+    <Cell><Data ss:Type="String">Colestipol - I have developed severe bruising and bleeding of the legs. the muscles of my legs also?</Data></Cell>
+    <Cell><Data ss:Type="String">I think the docs need to read the info on the drug. Here are the side effects https://www.drugs.com/sfx/colestipol-side-effects.html. I would ask them to stop the drug for a while to see how you react. If it doesn't go away, I'd do further testing.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/birth-control-stop-ortho-evra-put-patch-744944.html</Data></Cell>
+    <Cell><Data ss:Type="String">Birth Control - can I just stop using ortho evra when I please? I didnt not put my patch on for the?</Data></Cell>
+    <Cell><Data ss:Type="String">Well of course you can get pregnant if you don't have a patch on. The only time you are safe without a patch is the week you are supposed to not have one on. You may bleed as a withdrawal from the hormone.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/latuda-fatigue-anxiety-744951.html</Data></Cell>
+    <Cell><Data ss:Type="String">Can Latuda cause fatigue and anxiety?</Data></Cell>
+    <Cell><Data ss:Type="String">Hello Buterfly7x7. Yes. Fatigue, and anxiety as well as agitation, restlessness effects between 2 to 6% of people taking Latuda. They are considered to be normal and common side effects. Regards pledge</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/utis-side-effect-drug-escitalopram-10-mg-744968.html</Data></Cell>
+    <Cell><Data ss:Type="String">Are UTI's a side effect of the drug escitalopram 10 mg?</Data></Cell>
+    <Cell><Data ss:Type="String">In a way it can set you up for one. It can cause urinary retention, where a small amount of urine cannot leave your bladder. This urine laying in your bladder can breed infection.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/topamax-anyone-experience-withdrawl-you-miss-dose-744991.html</Data></Cell>
+    <Cell><Data ss:Type="String">Topamax - Does anyone experience withdrawl s/s when you miss a dose?</Data></Cell>
+    <Cell><Data ss:Type="String">Hello iv1nurse, &#10;You can surely look up all the dreadful side effects from stopping Topamax cold turkey, (including seizures of all types that may not go away,) but that's not what you're asking, right? If I miss a dose I feel a little &quot;off&quot; and headachy. Palpitations are also very common with a missed dose. Let's both try to be more careful with our dosage. This is not a drug where the body/brain tolerates sloppy dosage very well. &#10;Regards, &#10;4N Substances; Maybe I'm a lucky one or not on as high as dosage as the two of you (100mg 2x daily) but I've never noticed any withdrawal symptoms like you are talking about. Now I know if I don't get my prescription refilled on time and I go a few days without it I'm going to get a killer migraine and its going to take a week or so to get them back under control. I'm dealing with that now. But I've never noticed any palpitations or anything like that. I'll have to pay attention more cause I'm terrible on taking my medicine right on my weekends.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/mycophenolate-mofetil-celcept-stopped-after-liver-745000.html</Data></Cell>
+    <Cell><Data ss:Type="String">Mycophenolate Mofetil - when celcept should be stopped after liver transplant if no signs ?</Data></Cell>
+    <Cell><Data ss:Type="String">This needs to be discussed with the dr. The cellcept is part of the reason there is no rejection. Often transplant patients take more then one medication to prevent rejection. Your dr would be able to tell you what he has in mind.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/amazon-black-salve-drawing-infection-tumors-body-745030.html</Data></Cell>
+    <Cell><Data ss:Type="String">Can amazon black salve be used for drawing infection ie. tumors out of the body?</Data></Cell>
+    <Cell><Data ss:Type="String">No its not possible. It may make a boil come to head but its surely not going to draw a cancer out of a body. If it did, some drug company would have the right to it and be charging a fortune.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/anyone-success-taking-cymbalta-knee-pain-745041.html</Data></Cell>
+    <Cell><Data ss:Type="String">Has anyone had success in taking Cymbalta for knee pain ??</Data></Cell>
+    <Cell><Data ss:Type="String">Cymbalta did not help with my knee, ankle, or back pain and after 6 weeks it made it worse.&#10;Please research this med online before trying it as it can be very difficult to stop taking it. There are alot of side effects both when starting it and when stopping it if taken longer than 4 weeks.; I started taking cymbalta years ago for chronic pain from my arthritis. A great deal of which came from my right knee. It did help the pain for several years. It had the added benefit of improving my mood and outlook, which had darkened due to dealing with the chronic daily pain and stress. You'll need to give it at least 4-6 weeks to build up to a therapeutic level where the benefits will actually be felt. Don't expect it to rid you of all your pain, but just to help with what you have. I hope this helps.&#10;Lisa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/doctor-prescribe-ativan-fly-england-month-745046.html</Data></Cell>
+    <Cell><Data ss:Type="String">My doctor is going to prescribe Ativan for me when I fly to England next month?</Data></Cell>
+    <Cell><Data ss:Type="String">Hi new-here,&#10;You should do just fine with Ativan, it acts a lot longer than Xanax does. &#10;Just make sure he gives you enough for the flight there and the flight home.&#10;You are going to do just fine!&#10;Lara&#10;P.S while I do agree that Xanax works swimmingly, the Ativan is a better choice.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/taking-lamisil-tabs-ringworm-rash-skin-treating-745048.html</Data></Cell>
+    <Cell><Data ss:Type="String">I'm taking lamisil tabs for ringworm rash on the skin. I have also been treating it topically with?</Data></Cell>
+    <Cell><Data ss:Type="String">It sounds as though it's going away. I'd have you schedule a reexamination to be sure it's getting better and not a reaction of some kind.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/clindamycin-give-black-lab-she-ear-infection-745086.html</Data></Cell>
+    <Cell><Data ss:Type="String">Clindamycin - can I give this to my black lab, she has an ear infection, weighs 85lbs?</Data></Cell>
+    <Cell><Data ss:Type="String">No, unless a Vet has seen her and prescribed it for her.; I work at a vet clinic for my second job, just for fun, and I have never seen out vet ever give clindamycin. I don't even think we have it in out drug cabinet. I am also a nurse in a hospital and don't see it given other than with serious infections or specific infections, it is a strong antibiotic and wipes your system clean... even the good bacteria. Usually the vet gives amoxicillin for ear infections, probably 500 mg caps twice a day for 7 days, with topical ointment for ears.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/lorazepam-blood-sample-shows-50-ng-ml-745114.html</Data></Cell>
+    <Cell><Data ss:Type="String">Lorazepam. A blood sample shows .50 ng /mL?</Data></Cell>
+    <Cell><Data ss:Type="String">Ativan has a half life of 10 to 20 hours which means the dose is reduced by half each 20 hours. So any dose is detectable in a screen for 4 to 8 days. It is a very long lasting drug that is not weight dependent. If you have liver and kidney problems it can take longer.; Benzodiazepines are metabolized by the liver and absorbed by the stomach. So your weight does not matter. Any amount down to one quarter of a milligram will show up in a drug test up to 30 days and as far as being in your system the half life on Lorazepam is something like 14 hours so it will take about 3.5 to 4 days for it to clear your system.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/trinessa-birth-control-missed-condom-broke-745146.html</Data></Cell>
+    <Cell><Data ss:Type="String">Trinessa birth control- missed pill, and condom broke?</Data></Cell>
+    <Cell><Data ss:Type="String">No, don't take plan B. You will have your body all confused with all the hormones. You should be ok, you did what you were supposed to do if you missed a pill.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/enoxaparin-level-aptt-clexane-stopped-745164.html</Data></Cell>
+    <Cell><Data ss:Type="String">Enoxaparin - At what level of APTT clexane should be stopped?</Data></Cell>
+    <Cell><Data ss:Type="String">The aPTT level is not the test you should be using to determine enoxaparin levels. There is a high degree of variability in aPTT readings from one laboratory to another, and even from one reagent to another. Given that several biologic factors can influence the aPTT independent of the effects of LMWH, institutions should be transitioning to monitoring enoxaparin with antifactor Xa levels, rather than the aPTT or PT. The peak and trough levels of about 1.2 and 0.52 IU/mL, respectively are typical of the steady state range. Based on enoxaparin sodium pharmacokinetics, this difference in steady state is expected and within the therapeutic range.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/pills-together-745165.html</Data></Cell>
+    <Cell><Data ss:Type="String">Can I take these two pills together?</Data></Cell>
+    <Cell><Data ss:Type="String">Yes, you can take azithromycin and doxycycline together. They have no known interactions ... however, let your doctor know that you will be taking these two medicines together.; https://www.drugs.com/interactions-check.php?drug_list=300-0,940-0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/burning-mouth-syndrome-wife-bms-helps-pain-745166.html</Data></Cell>
+    <Cell><Data ss:Type="String">Burning Mouth Syndrome -</Data></Cell>
+    <Cell><Data ss:Type="String">I have been cursed with this for going on 9 years and the medication that has worked for me is Amitriptline. Has she been diagnosed by a doctor? BMS is extremely difficult to diagnose and few doctors have even heard of it.; Hi. I also have had BMS for a number of years, it came out of the blue and really it is an unknown syndrome. I am under Eastmans and Queens Sq Hosp in London and the only medication that helps me is Amitriptyline. I sometimes think it may have gone and have twice stopped the medication, then after a few days I know for sure it is still there. The burning and all the symptons are rather aggressive. There is no answer from anyone at present but it exists and it can be very painful. Try Amitriptyline, I take five x10mg a day, two when I wake up then two afternoon and one before I go to bed, the only downside is that they can make your mouth very dry at times. You can spread the dosage for your own requirements. It does help to calm the BMS down. No one can say what causes it or if and when it will disappear. It can make you feel rather antisocial at times. Good luck and try the amitriptyline. Regards June</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/yasmin-till-bleeding-stopped-9-days-time-745256.html</Data></Cell>
+    <Cell><Data ss:Type="String">I didnt take yasmin till my bleeding has stopped and it was 9 days from last time I took the pill?</Data></Cell>
+    <Cell><Data ss:Type="String">I am lost. Is this the start of you taking it or are you saying you skipped more then a week active pills. I would use a condom for the next 7 days. You should not wait until your bleeding has stopped. Once you establish a schedule you stick with it no matter what you're period is doing.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/freaking-confused-period-745262.html</Data></Cell>
+    <Cell><Data ss:Type="String">Freaking out and confused! is this my period or not?</Data></Cell>
+    <Cell><Data ss:Type="String">What are you worrying about? You're on the pill. Its the start of your period. You are protected by the pill.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/butrans-anyone-gained-weight-you-stop-weight-gain-745267.html</Data></Cell>
+    <Cell><Data ss:Type="String">Butrans - has anyone gained weight, and how do you stop the weight gain?</Data></Cell>
+    <Cell><Data ss:Type="String">You should call your doctor about your side effects, especially the itching. If the itching gets bad, I would call the on-call doctor to ask about discontinuing it. I just looked up the side effects of Butrans and didn't see anything about weight gain, but anything is possible. I myself have never had any weight gain from taking 15 mcg. But maybe somebody else will respond who has. Itching occurred in 4% of people taking Butrans during the drug trial. If it hasn't helped your pain at all, it may not be worth it, but again, ask your doctor. Good luck.; when on butrans,you need to eat drink and rest properly. lots of water and maybe something for bowl movements. now that your not in pain you want to eat and exersize even if its just stretching. eat smart only when you need to. get ride of all them snacks and cut down on salt... give that a try. but when I got on bup same thing happened to me. extra weight is a killer for people in pain... good luck subzero58; Hi Ginabru&#10;I have been on the patches for over a year now, and whilst I can't say they made me gain weight, they certainly contribute to making it harder for me to lose weight. Just stick to a diet plan - whichever suits you eg weight watchers and get as much exercise as you can. I also have knee arthritis (about to have more surgery on knee cap) as just one of my health issues, and am overweight too, so empathise. Also, get your doctor to prescribe a steroid cream for the itching and rashes - I always use a steroid cream before I add the patch. Try also using the patch on your back, it is my least itchy area! I get too many rashes if I use it anywhere else on my body.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/remeron-leg-cramps-745287.html</Data></Cell>
+    <Cell><Data ss:Type="String">Remeron - Any leg cramps hi?</Data></Cell>
+    <Cell><Data ss:Type="String">Hi CramP, I have been taking Remeron for over 5 yrs, and I do have pain in my left leg and Hip. I, nor my Dr has ever put the 2 together, as I take other meds to. I will be glad to dig around on WebMD, (great site for info) and see if this is related. Add me as a friend so I can let you know of my findings. Here to help, here to give hope. Take Care, Be well as can be...; Hello CramP. In clinical trials studies, muscle pain as well as back pain were both reported from 1% to 6% of users. Both are considered normal, and common side effects when taking Remeron/Mirtazapine. Regards pledge; Yes to leg cramps hip and back pain. The longer I was on it the worse it got. I eventually had to quit taking it because it was so bad. About a week off it leg pain hip pain went away.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/depression-very-literate-computer-join-several-745290.html</Data></Cell>
+    <Cell><Data ss:Type="String">Depression - ok Im not very literate with the computer and would like to join several groups but?</Data></Cell>
+    <Cell><Data ss:Type="String">what kind of groups? u can search certain grups on her of various medical conditions and a huge variety of meds and somewhere on these pages you should say join this group or topic; Hi, hartil! Try this. On the right side of the page click on *My Profile* next to your avatar. Then click on *Support Groups*. Scroll down to *Join a New Support Group* and type in something you're interested in, like *depression* or *Effexor* or whatever, and if there's a group it'll pop up. &#10;Or you can post a question and tag it with whatever you're looking for and you should get a pop-up asking if you want to join the group.&#10;Good luck! If you have more questions or problems, just holler. We'll help any way we can!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/fibromyalgia-cymbalta-anyone-fibro-takes-edge-745291.html</Data></Cell>
+    <Cell><Data ss:Type="String">Fibromyalgia - does Cymbalta help anyone with fibro? takes the edge off but some days are unbearable</Data></Cell>
+    <Cell><Data ss:Type="String">hartil1 please please please do all of your research, I'm talking about reading anything &amp; everything you can get your hands on, prior to deciding to use Cymbalta as a long term aid to helping you w/Fibro pain. Go to your Dr &amp; ask them about what to do if you sometime decide to discontinue taking it, ask about any &amp; all side effects, &amp; discuss if your Dr plans on any additional medications to help w/your Fibro pain. &#10; The reason I am stating this is because I've recently started discontinuing taking Cymbalta, due to horrible side effects which have started after 8yrs of usage. The problem I've faced is Cymbalta cannot just be stopped-you must ween yourself off of it very slowly.&#10; Take it from me, the weening off process has been harder for me than any medication, including extremely strong narcotics I've taken for numerous severe surgeries. The withdrawals are horrendous, thus it has been labeled, &quot;Cymbalta Withdrawal syndrome&quot;. There actually is a class action lawsuit at this time against Eli Lilly-the makers of Cymbalta, for numerous cases involving &quot;brain zaps&quot;, &amp; for w/holding serious information regarding patients who need to discontinue usage.&#10; Just please do your research if you continue Cymbalta usage. Cymbalta alone did NOT help w/my Fibro pain, &amp; after 8yrs of usage I wish I never started taking it. I'm currently battling severe anxiety, agitation, short term memory loss, worsening pain then I had prior to usage, atrocious sweating, shaking, fainting episodes, as well as numerous other side effects I could write a book!!! Please be careful-think more than twice about continuing using Cymbalta.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/depression-diag-barrets-esophagus-meds-heartburn-745296.html</Data></Cell>
+    <Cell><Data ss:Type="String">Depression - I have been diag with barrets esophagus and cannot take any meds for heartburn, due to?</Data></Cell>
+    <Cell><Data ss:Type="String">Have you looked for a liquid suspension? Surely your physician or a pharmacist would be able to compound this for you.; Dear hartil1, I have Crohns disease and GERD and heartburn is a major problem, most anything can trigger it even NOT eating. I know this is going to sound &quot;old school&quot; but helped me a lot. During my last hospitalization my GERD was acting up bad (in for Crohns flare and possible heart problem again) After trying a handful for high priced drugs, my dr suggested BeptoBismal. Yes the pink stuff. They gave me the liquid form and it helped my GERD and diarrhea. I continue to use it at home, as needed, for either case. Be careful, too much and you get stopped up. Don't know which is worse :-) With regular use it (Bepto) can cause your bm's to be black. I was wrned of that in advance so it didn't freak me out when it happened. What DID surprise me was when my tongue turned black. Of course I later found out it was harmless. Another plus, it does not interfere with meds. Good luck, and let me know how you are doing. Be well as can be...</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/12-year-daughter-fever-her-arm-hurts-hurts-breath-745299.html</Data></Cell>
+    <Cell><Data ss:Type="String">My 12 year old daughter has a fever and says her arm hurts and hurts to breath in?</Data></Cell>
+    <Cell><Data ss:Type="String">Is she coughing? What is her temp? It is possible she has an infection going on and needs to see a dr. I would see if I could get her temp and pain to decrease with ibuprofen and if not, take her to a dr.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/difference-between-oxycodone-oxymorphone-745325.html</Data></Cell>
+    <Cell><Data ss:Type="String">What is the difference between oxycodone and oxymorphone?</Data></Cell>
+    <Cell><Data ss:Type="String">They are the same, both narcotics to treat pain.; take care.-; oxymorphone is generic name for opana and oxycodone is generic name for percocet/oxycontin also oxymorphone is norm a extended release tablet and percocet is either immediate or sustained release.; Oxymorphone is a stronger medication than Oxycodone and both are available in instant release and extended release versions. They are both opiod medications. Oxycodone is abused slightly more frequently but both are sought by narcotic abusers. Both are available in brand and generic versions but Oxymorphone has a different time release mechanism in the generic versions than what is in the brand name version. I hope that helps.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/nausea-vomiting-hello-everyone-hoping-you-you-745357.html</Data></Cell>
+    <Cell><Data ss:Type="String">Nausea/Vomiting - Hello everyone, I am hoping for some help here. What do you do when you have?</Data></Cell>
+    <Cell><Data ss:Type="String">If you can't get the vomiting under control, then you should go to the ER as I do. You are most likely getting badly dehydrated which just makes everything worse. At least the hospital can give you some saline water by IV as well as an anti-nausea medication by IV. That's what they do for me as well as giving me a pain killer. &#10;I would suggest that you call your doctor and perhaps get Zofran which also comes out in generic. Get the one that melts in your mouth without any water. You need to take early on, because if my vomiting is really bad, the Zofran is not enough. Then I go to the ER.; Yes, please go to the ER. This can be treated and you will kick yourself for not doing so earlier. I don't like hospitals but I do like life! Having just gotten out of the hospital again, it really wasn't that bad. Please get healthy. not time for giving up. Go now. Don't drive. Just go. You will get this under control. Fatigue can make it pretty hard on you. Karen</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/venlafaxine-financial-assistance-medication-745359.html</Data></Cell>
+    <Cell><Data ss:Type="String">Venlafaxine - Is there financial assistance for this medication?</Data></Cell>
+    <Cell><Data ss:Type="String">Hi Chaz63110&#10;What type of insurance do you have... I have BCBS and the copay for a months supply of 37.5 mg of Effexor is less than 10 dollars... even out of pocket it should not be 120 dollars as... as you noted..it is available as a generic..unlike Cymbalta..which is not which I am sure you already know&#10;Sincerely,&#10;Jerry; Walgreens had a card for $25.00 per year which reduces expenses for medications. If you are willing to take the generic, you can save a lot of money. Co-pays are usually under ten dollars. Do some calling to various big chain pharmacies, Costco, Walmart, target, and so forth. You can get much better pricing. Worth the few phone calls. Worked for me before I got Medicare. Hope you can find a much better price.; It is that expensive, as a generic. Generics don't have much assistance by the manufacturers. I am on it, when I didn't have insurance I paid that. If you have insurance you should not be paying that as copay for a generic. I ordered it from canada, got the exact same pill, and paid less then that for 2 months worth. Now I have medicare and I don't pay anything for the generic. There are places you try for assistance with all your meds, its based on your income. The CoPay Relief Program 1-866-512-3861 or www.copay.org; or Suddenly Senior www.suddenlysenior.com/patientassistantprograms.html; or Needy Meds www.needymeds.org; and Partnership for Prescription Assistance 1-888-477-2669 or www.pparx.org www.freemedicine.com www.access2wellness.com&#10;www.benefitscheckup.org/cf/index.cfm?partner_id=22; Hi, Chaz! Find out if your script was for the proprietary product. My generic venlafaxine costs me $23.19/mo and that's for 75mg #120 (I take 2 tablets twice daily) through Medicare. The generic works just as well for me.&#10;Best wishes, WCV; Hi Chaz.&#10;Here's a link that may help:&#10;https://www.drugs.com/price-guide/effexor-xr; I've had to get my meds a few times through patient assistance. It's a piece of cake. Try it. What do you have to lose? &#10;pickles503</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/lantus-solostar-16-units-day-lantus-many-pens-3-745366.html</Data></Cell>
+    <Cell><Data ss:Type="String">Lantus Solostar - I take 16 units a day of lantus... how many pens do I need to last me 3 months?</Data></Cell>
+    <Cell><Data ss:Type="String">If each pen holds 80 units and you take 16 units a day, thats 5 days of injections from one pen, 5 days devided by 90 days is 18 pens you would need for 3 months @ 16 units a day.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/diclofenac-med-make-you-feel-narcotic-people-abuse-745378.html</Data></Cell>
+    <Cell><Data ss:Type="String">Diclofenac - Does this med make you feel like a narcotic? Do people abuse it?</Data></Cell>
+    <Cell><Data ss:Type="String">It can make some people sleepy when they take it. My wife takes hers at bedtime. It is not considered a drug of abuse as most people are seeking a high and this anti- inflammatory really does not do that. If you have excess sedation notify your Dr. He might try something else.; If this drug was abused on a regular basis it would most likely cause the stomach to bleed.; No</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/med-you-recommend-replace-guanfacine-745399.html</Data></Cell>
+    <Cell><Data ss:Type="String">Is there another med you can recommend to replace Guanfacine?</Data></Cell>
+    <Cell><Data ss:Type="String">Hi NoahMom-&#10;Can he see a dietician and or someone to help him get more exercise? Just seems like tackling the lack of exercise and food issue may be your best options.This may also help his self-esteem and give him some personal power over his ADHD. Talk to his doctor, maybe you can reduce the guanfacine to 1/2 mg. I take mine at night so it lessens the groggy feeling. &#10;Sertraline is also known for weight gain and fatigue. Maybe a less sedative antidepressant? Again talk to his doctor. Not sure why he is on Abilify?&#10;Wishing you and your family the best.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/statins-severe-muscle-joint-pain-stopped-taking-745451.html</Data></Cell>
+    <Cell><Data ss:Type="String">All statins can cause severe muscle/joint pain. I stopped taking Lipitor because of this. Some?</Data></Cell>
+    <Cell><Data ss:Type="String">This doctor is very well educated in the matter of taking Livalo(pitavastatin) since it is also a statin!.I don't know about this rheumo.,but he/she shoulod know that lipitor can (and in most cases will) cause muscle problems;ie: cramps to atrophy.There are only two dosages available;2 mg &amp; 4 mg.If you are still experiencing problems w/Livalo, ask for alternative treatments.; Yours for better health,&#10; Divalproex</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/found-5weeks-pregnant-pain-medication-4-6-pills-745499.html</Data></Cell>
+    <Cell><Data ss:Type="String">Just found out I'm 5weeks pregnant and I have been pain medication, 4-6 pills a day,everyday. Am I?</Data></Cell>
+    <Cell><Data ss:Type="String">Hi bons28,&#10;Please list any and all medications/drugs you've ingested since pregnant, one of us can look them up for you, or you can go up to the blue bar, Drugs A to Z and use the search engine to find the med that you've been taking to see what class it falls into for pregnant women. &#10;Just to calm you a little, I took a few Percocet during the first week that I was pregnant and didn't know I was pregnant, which scared the bejesus out of me, I now have an incredibly smart and lovely daughter. So, unless you were using the stuff real heavy I wouldn't worry about it too much. &#10;It also depends upon what drug you were taking, too. I'm not saying that all of them are fine and to keep taking them, far from it, but some of them are pretty benign during pregnancy if only taken a couple times.&#10;Good luck to you and your wee one, and remember this; anything you take, your baby takes.&#10;Lara</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/concerta-ritalin-745539.html</Data></Cell>
+    <Cell><Data ss:Type="String">Is Concerta &amp; Ritalin the same??</Data></Cell>
+    <Cell><Data ss:Type="String">The main difference between the 2 drugs are that Concerta works for a 12 hour time period. Ritilan works for a 4 - 6 hour time period.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/chance-pregnant-745611.html</Data></Cell>
+    <Cell><Data ss:Type="String">Chance of me being pregnant?</Data></Cell>
+    <Cell><Data ss:Type="String">The risks are slight as he only thirsted once but because he didn't wear I condom- and he may of had pre-cum which can make you pregnant if he had recently ejacualted before he thirsted you. That is the only way for pre-cum to to have sperm in it.; Ivy x</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/severe-long-term-insomnia-treat-745615.html</Data></Cell>
+    <Cell><Data ss:Type="String">I have severe long term insomnia. Is there anything I can take to treat this?</Data></Cell>
+    <Cell><Data ss:Type="String">Hello hormor. I suggest a sleeping hypnotic benzodiazepine such as Dalmane or Restoril. Both can become addictive being a benzodiazepine, as is Xanax. Another drug that helps is Trazodone, an anti-depressant often prescribed for insomnia. Side effects are minimal compared to the two benzodiazepines where waking up with a drug hangover for example is common. Regards pledge; Hi homar,&#10;I must agree with pledge. But, have you noticed that gabapentin makes you a bit hyper? I couldn't sleep on that stuff until my body adjusted to each increase in the dose. That stuff wound me up like a cheap watch! &#10;Look back thru your history, could it have been the gabapentin? I didn't realize my insomnia was caused by my gab until my last dose increase then it was very apparent that gabapentin was the culprit. I've Fibromyalgia and just can't take much gab any more, way too hyper on the stuff. pledge may be right about the trazadone, if you've not already tried it.&#10;Wish you ZZZZZZZZ's,&#10;Lara; homar, I'm glad you wrote in, and know you came to the right place for advice. I too take Gagapentin, but Lamictal for a mood stabilizer. I too, struggled with severe insomnia, and your just not the same if you don't get enough sleep. Some sleeping meds. help you fall asleep, and others help you fall asleep, and stay asleep. I tried them all in a desperate attempt for some sleep. Right now, I'm on one that is actually working, for me, anyways. It's Doxepin. Just food for thought. I hope you find something that works soon. We just get a tad bit irritable, don't we Lol, we we miss our sleep. best of luck, ruth</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/long-after-months-shot-you-periods-back-745646.html</Data></Cell>
+    <Cell><Data ss:Type="String">How Long After The Three Months of Getting The Shot Do You Get Your Periods Back?</Data></Cell>
+    <Cell><Data ss:Type="String">Yes, that is often the case. It took me about 3-4 months to get any bleeding, &amp; an awful lot longer before there was any regular period pattern. It was a frustrating wait for me, but not everyone has such a long wait. You may be lucky. Everyone's body is different.; I'm assuming you've ruled out pregnancy &amp; that you are up to date with your cervical smear tests.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/bupropion-mutagenicity-745683.html</Data></Cell>
+    <Cell><Data ss:Type="String">Bupropion mutagenicity?</Data></Cell>
+    <Cell><Data ss:Type="String">People aren't rats or bacteria. Studies on people are what matters to the FDA.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/period-14-excessive-clear-green-vaginal-discharge-745698.html</Data></Cell>
+    <Cell><Data ss:Type="String">Period - I'm 14 and getting excessive clear or green vaginal discharge why?</Data></Cell>
+    <Cell><Data ss:Type="String">It sounds like you should be checked by a dr. A discharge like that could be hormonal or you could have an infection.; hello Lilspurr,&#10;If you haven't already I say make an appt. for your gyn a.s.a.p for you don't want to let whatever is causing this to get worse... it could be some type of infection, I am no doctor so I recommend seeing a gyn right away to get it diagnosed and treated... best of health 2 u...; Hi Lilspurr,&#10;The clear discharge sounds like you may be ovulating. If it is of the consistency of a raw egg-white, then I'd say it is your ovulation time, do you know what ovulation means? If not I can explain it and don't feel silly if you don't know what &quot;ovulation&quot; means!; But the green discharge is worrisome, as kaismama has indicated. You could buy an over the counter vaginal infection test kit sold at pharmacies.&#10;If you are sexually active it may be from your partner, something he passed on to you, or not, it may be something entirely different. But you need to see a doctor about it, most definitely. &#10;Good luck honey, and don't be afraid to go to the doctor about this.&#10;Lara</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/shoulder-pain-sleep-taking-tramidol-50-mil-745740.html</Data></Cell>
+    <Cell><Data ss:Type="String">I have shoulder pain and cant sleep so was taking tramidol 50 mil. its suppose to be 6 times a day?</Data></Cell>
+    <Cell><Data ss:Type="String">Stop abusing the med. You can take up to 400 mg a day. Tramadol isn't like other pain meds but keeps trying to use it the same way. I've found the only way it works is if you take it on a regular basis. It won't help if you take it when you have severe pain. It has to be able to prevent the pain. Taking more then 100 mg isn't going to help any better. I take 100 mg every 6 hrs and I have some relief that way. The side effects you're having will go away as the drug decreases in your system. Don't take any more until you feel better.; Hi claudis0101,&#10;Don't abuse Tramadol unless you are ready to have a seizure! You lower your seizure threshold every time you take more than what was prescribed. I'm really quite surprised that you didn't have one after taking 300mgs of the stuff.&#10;You need to talk to your doc if you can't take Tram as prescribed, as kaismama has said, you need to tell your doctor they aren't strong enough, but you may just be labeled as a drug-seeker, it's worth a shot if you have pain that isn't being touched by 300mgs of Tramadol! &#10;If you've a good rapport with your doctor than bring this subject up to her/him. &#10;Lara; Hi, i know how it feels when you have severe pain that you can get rid of. Desperation can make you do dangerous things. I've been there, i understand the frustration. However, like the other ladies have said, Tramadol is best taken as prescribed, usually 100mg 4 x a day (for the 50mg immediate release capsules). If you take it regularly throughout the day, on a daily basis, you should notice that your pain becomes much more manageable. I'm hoping you are feeling better now after the overdose?? You can take Paracetamol &amp;/or Ibuprofen alongside Tramadol if you need extra help every now and then (as long as you don't have problems taking these medications). I hope you are feeling better soon!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/experienced-8-year-son-waking-screaming-seeing-745749.html</Data></Cell>
+    <Cell><Data ss:Type="String">I have experienced my 8 year old son waking up screaming, seeing thing like he's dreaming but wide?</Data></Cell>
+    <Cell><Data ss:Type="String">I've never heard of that reaction. I'd hold off on it and see if he does it without taking panadol.; I actually have some experience with this. This sounds like Night Terrors. I actually had them myself when I was between the ages of 5 and 9. And I used to babysit a little girl when I was a teenager who had the same thing. About 2-4 hours after she would fall asleep, she would just start screaming and her eyes would be wide open, she would be shaking, and talking and she would say that the black frogs were getting her!! She would have vairations of the same dream every time. The doctor told her mom that she was having night terrors and they are actually bad dreams that are more real than most. Like I said I had them too. I grew out of them and so did the little girl that I sat for but from what I know , they can lead to things like sleepwalking and stuff like that so keep an eye on your child as he get's older. Keep in mind that I am not a medical professional, I am just telling you what I expirenced with this and this may not even be what is going on with your son. I would talk to your son's doctor about this if it is bothering you and it keeps happening and maybe see about having a sleep study done on him to see what is going on.&#10;I hope this helps you some. Take care, and I hope your little guy get's sweet dreams soon. :)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/depression-antidepressant-mixes-meds-lithium-745755.html</Data></Cell>
+    <Cell><Data ss:Type="String">Depression - I can't seem to get an antidepressant that mixes with my other meds (Lithium,?</Data></Cell>
+    <Cell><Data ss:Type="String">Most of the newer antidepressants can make you feel awful at first. That is why you are started out on such a low dose. It is increased gradually as you get used to it. It also takes 4-6 weeks to reach full effect, so for a while you feel rotten. Its worth it if you can stick with it. Have you tried the older antidepressants?; Hi there,; I tried a lot of meds for my major depression. Then I tried Manerix with Lithium and had success!; Good luck!; Smileyhappy; Hi, as already stated, it takes time for the antidepressants to work effectively at a level that will control your depression. Your body needs to get used to them, and yes, it can take 4 weeks to settle down, sometimes longer. Try not to let this put your off, as long term treatment can be a God send. I started an antidepressant (Citalopram) some years ago now. The transition period was really hard, i felt worsening depression, low energy/desire to do anything, lethargy, etc. But i got through it and i'm so, so glad i did. I hope you find the right medication for you, and start to live a happier life : ); a very wise dr i used to go to told me about health store grade lithium and i have been taking that instead of a script anti-depressant for yrs. (6 or 7... don't remember for sure) it has helped me in some real dark times and i don't feel awful starting out. the manufacturers should have a recommended dosage on the bottle. it takes a day or two to kick in but it's definitely worth it. hope this helps.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/adverse-effect-contraindication-omx-capsule-745756.html</Data></Cell>
+    <Cell><Data ss:Type="String">What is the adverse effect and contraindication of OMX Capsule?</Data></Cell>
+    <Cell><Data ss:Type="String">There shouldn't be any. It is a probiotic and should help as it replaces normal bowel bacteria.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/arimidex-taking-doses-6-wks-mistake-feelinf-pretty-745767.html</Data></Cell>
+    <Cell><Data ss:Type="String">Arimidex - I've been taking two doses instead of one for about 6 wks, by mistake. I;m feelinf pretty</Data></Cell>
+    <Cell><Data ss:Type="String">You are probably suffering double the side effects. Things like this shouldn't happen. Somewhere in the 6 weeks you had to have time to read the label.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/metoprolol-effect-potassium-745784.html</Data></Cell>
+    <Cell><Data ss:Type="String">Metoprolol - Does this effect your potassium?</Data></Cell>
+    <Cell><Data ss:Type="String">Hyperkalemia (high potassium levels) has been reported while on metoprolol.; https://www.drugs.com/sfx/metoprolol-side-effects.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/person-high-blood-pressure-safe-midol-745836.html</Data></Cell>
+    <Cell><Data ss:Type="String">When a person has high blood pressure, is it safe to take Midol?</Data></Cell>
+    <Cell><Data ss:Type="String">Diuretics like lasix and hydrochlorothiazide cause you to loose potassium not increase it, unless you get yourself dehydrated by not drinking enough. There are some natural diuretics too, not things with caffeine because that will raise your bp, but things like cucumbers and watermelon.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/difference-taking-janumet-50-500-janumet-xr-50-500-745845.html</Data></Cell>
+    <Cell><Data ss:Type="String">What is the difference in taking Janumet 50/500 and Janumet XR 50/500?</Data></Cell>
+    <Cell><Data ss:Type="String">The janumet doesn't last as long as the janumet xr. You take janumet twice a day and xr only once. Therefore if you take one tab of janumet twice a day you would be getting double what you would get with one tab of xr a day.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/janumet-50-500-day-janumet-xr-100-1000-745856.html</Data></Cell>
+    <Cell><Data ss:Type="String">Is it okay to take two Janumet 50/500 twice a day instead of one Janumet XR 100/1000?</Data></Cell>
+    <Cell><Data ss:Type="String">It may not work the same ... as the two 50/500 aren't extended release tablets. But please discuss with your doctor, they might think it's fine.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/side-effect-drug-make-body-secretions-appear-745914.html</Data></Cell>
+    <Cell><Data ss:Type="String">Side Effect - what is the drug that make body secretions appear orange?</Data></Cell>
+    <Cell><Data ss:Type="String">Hi marina,&#10;There is a med that makes your urine turn a bright orange, it is Azo Standard, used for UTI pain.&#10;I don't know if that's what you meant but that's all I know of, but hang on for other members answers.&#10;Lara; Rifampin will make all your secretions red-orange.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/second-day-glucophage-xr-500g-after-taking-dinner-745916.html</Data></Cell>
+    <Cell><Data ss:Type="String">It's my second day of using glucophage xr 500g,after taking it during dinner I find it in my stool?</Data></Cell>
+    <Cell><Data ss:Type="String">How is your blood sugar, that is the thing you want to look at to be sure its working. Sometimes the extended release meds will give the medication but the coating will remain and that is what is seen in the stool.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/recieved-copy-mri-report-clue-reading-746016.html</Data></Cell>
+    <Cell><Data ss:Type="String">I recieved a copy of my mri report but I have no clue what Im reading?</Data></Cell>
+    <Cell><Data ss:Type="String">schmori nodules are protusions of the cartilage between the vertebrae. It sounds like your biggest problem is the disc that buffers the vertebrae and keeps them from rubbing against each other. L would mean the lumber region. These are the 5 vertebrae between the ribs and pelvis.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/you-find-name-company-make-effient-100-mg-746021.html</Data></Cell>
+    <Cell><Data ss:Type="String">Can you help me find the name of the company that make Effient 100 mg?</Data></Cell>
+    <Cell><Data ss:Type="String">Eli Lily and co make it. Here is their web site for assistance www.lillytruassist.com/Pages/index.aspx</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/hello-everyone-new-wondering-morning-after-june-746074.html</Data></Cell>
+    <Cell><Data ss:Type="String">Hello everyone new here I am wondering if I took the morning after pill on June 3rd less than 24?</Data></Cell>
+    <Cell><Data ss:Type="String">Yes, fertility resumes almost immediately after taking the ecp.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/nucenta-opiate-benzo-746077.html</Data></Cell>
+    <Cell><Data ss:Type="String">Is nucenta a opiate or a benzo?</Data></Cell>
+    <Cell><Data ss:Type="String">Hello ronfryman and welcome to DC. If you are taking this medication with a legal prescription then you have ZERO worries.; I have a job that maintains a ZERO TOLERANCE for drugs on or off the job. If I were to be drug tested again, I would be getting a phone call from the company doing the testing asking for my permission to contact the pharmacy where my scripts are dispensed. It has happened to me once already. I am fine because my scripts are legitimate. They must report their findings as &quot;NEGATIVE&quot; for illicit or illegal drugs. I just take what I am prescribed in the amount prescribed and no sooner than needed.; I presume the med in question is nucynta and not nucenta??? It is an opiate type...</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/bystolic-experiencing-mouth-sores-cancer-sores-746078.html</Data></Cell>
+    <Cell><Data ss:Type="String">Bystolic - I have been experiencing mouth sores, cancer sores, I guess. Dr and Dentist have no?</Data></Cell>
+    <Cell><Data ss:Type="String">Hi MargM and welcome to DC. Your symptoms could be as simple as herpes simplex. There isn't too much that can be done for them other than using an oral suspension/paste to cover them which also helps them heal. If I can find my medication, I will tell you what it is. It doesn't have a bad taste or consist of anything nasty like. But at least it allows you to eat without further irritating them.; Of course while you have them, it would be best to avoid acidic food or drinks. Bland food is best and so is soft food.; Arthritis could explain the pain you are experiencing and so would bad hips or arthritic hips. Have you had your hips XRayed to see if that is the problem? I have already had one hip replacement and that has improved my pain immensely. I still have one hip to go but sitting for long periods is really painful. So getting up and moving around is helpful - so is walking. Even slow walking is better than no walking. Aquatic exercises have helped as well. Warm water is the best and I have been lucky enough to have a facility within 9 miles of my home.; Can you share more about what is going on with you or how you are feeling?; I have Behcets so ulcers are quite common for me - oral and otherwise...; Mary</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/depo-shot-unprotected-sex-746100.html</Data></Cell>
+    <Cell><Data ss:Type="String">Depo Shot &amp; Unprotected Sex?</Data></Cell>
+    <Cell><Data ss:Type="String">I'm in the depo shot and my next appointment is on the 13 - 27 can i still have sex with out getting pregnant? ?; I had sex on the 31st October and on the 1st November more than once and I had the injection on the 3rd and due on my period around the 22nd was told it wouldn't stop my periods the first time and I havnt come on could I be pregnant,? Gettin the syntoms of pregnancy like feelin sick and stomach cramps and gone off food but how lolly am I to be pregnant,; My shot where due on the 13th of this month and I missed it, me and my guy had unprotected sex at least 4 times is there any chance I can be pregnant; I got my depo shot on Wednesday Febuary 3rd 2016 and had unprotected sex on saturday febuary 6th 2016 multiple times ! what are the chances that i am pregnant ??; I was on depo I just got off of it in March of this year my boyfriend and I had unprotected sex last night two times am I going to get pregnant.?</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/mild-vaginal-yeast-infection-ketoconazole-cream-746110.html</Data></Cell>
+    <Cell><Data ss:Type="String">I have a mild vaginal yeast infection..i am using ketoconazole cream to treat it. How long until i?</Data></Cell>
+    <Cell><Data ss:Type="String">For over the counter 1 week or 5 days is usually recommended. If you are taking antibiotics it may take longer.; Three days as far as the itch and redness. Don't stop if you feel better. Use the cream for 10 days to ensure it doesn't come back.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/started-taking-micronor-8pm-night-today-forgot-746139.html</Data></Cell>
+    <Cell><Data ss:Type="String">I started taking a Micronor pill at 8pm each night but today I forgot and took it at?</Data></Cell>
+    <Cell><Data ss:Type="String">Hi Bexyboo22,&#10;Sorry for answering late. Hope my answer may help anyone further:; CAREFUL with Micronor!&#10;So you had a delay of 2h45 in taking your Micronor pil: you should carry on taking the daily pil as usual until the end of your sachet: you should get your periods. Then start a new sachet: you should then be protected again. Until you start this new sachet (and it's not long to wait as you almost finished your sachet), I would strongly advise you use extracontraception (condom) up to the end of your cycle - and certainly not 7 days as said on the leaflet (nor 2 days as I think it has been revised now - as a recommendation after a delay of more than 3 hours): it is not reliable AT ALL!; In case my experience may prevent such stories happen to someone else, believe my poor experience: I had a delay of 2H45 in taking my Micronor like you, and had an &quot;unprotected&quot; intercourse the day after. I followed the leaflet instructions AS WELL AS many doctors advices that were: &quot;you should be fine&quot; so no morning-after-pil and only 2 days extra-contraception: as a result I had to face an unexpected pregnancy...; From now with my experience and after collecting different advice on micro-pil such as Micronor with a &quot;3 hours delay&quot;, You should consider you are not protected anymore of an unwanted pregnancy from 1 hour delay only. Be aware you should not be sick either (vomit or diarrhea in the next 3-4 hours). Also avoid to take at night time (before going to bed: it shorten the delay): be fully aware it is a MICRO-pil, so it is less powerful on a time frame: it has to be strickly taken every 24 hours: and it is not easy to respect... &#10;Then perhaps you'd rather swap for another pil or meaning of contraception (cerazette (12 hours), IUD or hormonal IUD mirena, implant) (some estroprogestative pils may also be fine for you). Hope this helps. Good luck!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/suggested-empty-stomach-746160.html</Data></Cell>
+    <Cell><Data ss:Type="String">Why is it suggested for an empty stomach?</Data></Cell>
+    <Cell><Data ss:Type="String">If it says to take on an empty stomach ... then take is one hour before food or two hours after food.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/deal-arm-nerve-pain-746168.html</Data></Cell>
+    <Cell><Data ss:Type="String">How can I deal with an arm with nerve pain?</Data></Cell>
+    <Cell><Data ss:Type="String">Why don't you see a doctor who can prescribe you medication to treat your nerve pain? There are a number of various ones which will be up to the doctor. Good luck.; Hi I too have very severe nerve pain on the left side of my body. My left arm would hurt so severely that I could not raise it for fear of current running through it. I did go to the dr and found out that I have nerve impingement in my neck. I am scheduled for neck surgery the end of this month.; By any chance is this a repetitive arm movement disorder? Something you repeat over and over? Tennis elbow is not just for tennis players. It is the nerve where our funny bone is. Not very funny when it is bumped, right? Either way, the gabapentin makes me go to zombie land as well. It is a tough choice, I know. Hopefully they can get to the source of your problem and find some relief. Before a surgery, unless there is something needing immediate fixing, they will continue to work with you with PT muscle strengthening or massages. But, as the old joke goes, if it hurts, stop doing that! Sorry, I have an odd sense of humor. In another way I am saying that you will find a way to adapt your movements until the cause is corrected. I assume you have tried all the usual, like ice, heat, massage, and so on. Hopefully the scans will give you a chance to determine what is really happening. Good luck to you. Karen; I have had the same thing for 6 months... left arm..&#10;First he said bursitis, now he thinks it's neuralgia,&#10;What ever that is? Gave me Lyrica... I really think the pain is less,&#10;It is so strange... your whole arm feels heavy and aches..</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/synthroid-states-eat-high-fiber-foods-classified-746198.html</Data></Cell>
+    <Cell><Data ss:Type="String">With Synthroid it states to not eat &quot;high-fiber&quot; foods... what is classified as high fiber?</Data></Cell>
+    <Cell><Data ss:Type="String">Hello. It is going to be a year or so until we get back the other medication. Mistake at the factory it seems.; Calcium is still taken but not within 4 hours of the thyroid medication. Since you take it first thing in the morning before breakfast, I take calcium after lunch with another calcium containing food like dairy.; High fiber is pretty much the same thing. If your bowels are working properly, no constipation and no diarrhea, then you are getting enough fiber. What they are saying is to not follow with breakfast half an hour later with bran muffins and whole grains. A couple slices of toast is fine. Just not lots of whole grains with lots of fruit or veggies. Save that for a bit later. It is about absorption of the thyroid medication.; Timing is the issue. Enjoy what you like. Just those brief exceptions about timing. Karen. Read on:; levothyroxine ↔ multivitamins with minerals&#10;Moderate Drug Interaction&#10;Using multivitamin with minerals together with levothyroxine may decrease the effects of levothyroxine. You should separate the administration of levothyroxine and multivitamin with minerals by at least 4 hours. If your doctor does prescribe these medications together, you may need a dose adjustment or special test to safely use both medications. It is important to tell your doctor about all other medications you use, including vitamins and herbs. Do not stop using any medications without first talking to your; levothyroxine ↔ food&#10;Moderate Food Interaction&#10;The timing of meals relative to your levothyroxine dose can affect absorption of the drug. Therefore, levothyroxine should be taken on a consistent schedule with regard to time of day and relation to meals so as to maintain steady blood levels. In addition, absorption of levothyroxine may be decreased by foods such as soybean flour, cotton seed meal, walnuts, dietary fiber, calcium, and calcium fortified juices. These foods should be avoided within several hours of dosing if possible.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/80mg-levothyroxine-twelve-years-tsh-levels-normal-746225.html</Data></Cell>
+    <Cell><Data ss:Type="String">Hi I have been on 80Mg of Levothyroxine for twelve years and my tsh levels are normal but I can't?</Data></Cell>
+    <Cell><Data ss:Type="String">Hello Ginger. What a problem! Lol. One thing you did not say is how tall you are. If you were 5'9&quot; you would be awfully skinny. If you are around 5' you would look just fine.; Your care with your diet is wonderful. It is rare to hear this issue. I will say that the only way to know how your medication is doing, and that is a long time without dosing adjustments, is to give your TSH values and how long ago that was. As long as your range is between .3 to 3.0 you are doing well.; I would say that you must be careful with your calcium intake. Thinner people at our age have a greater chance for osteoporosis and spine problems. Have you had a bone density done?; Sorry, I ramble. Let me know your numbers and lets take a better look at this. And I do agree with the doctor about weight. You are doing very well and take your health seriously. Karen</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/pristiq-long-nausea-typically-starting-pristic-746236.html</Data></Cell>
+    <Cell><Data ss:Type="String">Pristiq - How long does the nausea typically last when starting pristic?</Data></Cell>
+    <Cell><Data ss:Type="String">The nausea will gradually get better and be gone in the first week or so. If you have no insurance, it will be quite pricey. If you are low income, you may qualify for assistance in getting your medication from the manufacturer.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/flexeril-anxiety-746244.html</Data></Cell>
+    <Cell><Data ss:Type="String">Does flexeril help with anxiety?</Data></Cell>
+    <Cell><Data ss:Type="String">Hello and welcome to DC, Mrs. Little - Flexeril sure does help with muscle spasms. I cannot say for sure about anxiety though. This medication isn't meant for long-term either. I can see that being on this med for muscle spasms can also have a side benefit. Lots of medications have other benefits than the ones they were prescribed for.; Can you talk more about how you are feeling or how we can help you???; Mary; Hi Mrs. Little4,&#10;I'm so sorry about the panic attacks you are suffering, they are hellish indeed.&#10;But Flexeril could harm your baby, as Mary indicated, so no Flexeril, OK?; Do tell your doctor about your panic attacks, there is probably something that you can be prescribed that won't hurt your baby. Do you know why you are having panic attacks? This is an anonymous website, you can tell us anything that you wish, we don't know who you are nor do we care. We are just here to help.&#10;Lara</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/armour-thyroid-recently-switch-25-mg-levo-15-mg-746245.html</Data></Cell>
+    <Cell><Data ss:Type="String">Armour Thyroid - I recently switch from 25 mg of levo to 15 mg of Armour 2 weeks ago. I am?</Data></Cell>
+    <Cell><Data ss:Type="String">Have you called your Druggist? They are next in line when a Dr can't be reached. The throat thing worries me especially going to bed.; Good for you, so much better medication, natural, not syntethic and has all the thyroid hormones, and not just T4 like the synthetics, who by the way, spend alot on advertising.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/doxycycline-classified-mao-inhibitor-746262.html</Data></Cell>
+    <Cell><Data ss:Type="String">Is doxycycline a classified as MAO inhibitor?</Data></Cell>
+    <Cell><Data ss:Type="String">No. Doxycycline, is a tetracycline antibiotic. It fights bacteria in the body.; Doxycycline is used to treat many different bacterial infections, such as urinary tract infections, acne, gonorrhea, and chlamydia, periodontitis (gum disease), and others.; https://www.drugs.com/doxycycline.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/safe-amitriptyline-2-3-nights-week-sleep-746278.html</Data></Cell>
+    <Cell><Data ss:Type="String">Is it safe to take amitriptyline 2 or 3 nights per week to sleep?</Data></Cell>
+    <Cell><Data ss:Type="String">What dose are you talking about? &#10;I take amitriptyline every night and it helps me fall asleep and it used to help keep me asleep too but I wake up during the night now.&#10;Occasional use would really depend on the dose.; I thought that was a drug safe to take every night??? I'm a little confused about why there would be and issue is there a dosage issue? Or are you getting weaned off?; I'm not a doctor but in the field and know lots of medications... I need a little more info. But, you can always call your pharmacy or the pharmaceutical company to get answers as well...; HOPE ALL IS WELL! TAKE CARE!; Danie...; Hi, this is a medication that can be used daily on a long term basis. It won't work as well if taken ad lib. I've been taking it for 4 or 5 years now. It was first prescribed to help the pain and insomnia i experienced due to a back injury. I now continue to take it to help with sleep. It is a very 'safe' medication to be used for sleep, compared to a lot of others.; I use it for sleep, but on an every day basis. Works well. I'm not sure how it would work taking it here and there. It took me awhile to adjust to the sleepiness. Also works somewhat as a pain reliever, especially for bladder pain. And my mother called it her &quot;Happy Pill&quot;. It worked great as an antidepressant for her. Regards - EJ23</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/myrbetriq-experienced-weight-gain-anyone-found-746334.html</Data></Cell>
+    <Cell><Data ss:Type="String">Myrbetriq - I experienced weight gain. Has anyone else found this to be true?</Data></Cell>
+    <Cell><Data ss:Type="String">It sounds like you might have been retaining fluid while on the med</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/alcohol-drunk-person-taking-50-mcg-day-euthyrox-746374.html</Data></Cell>
+    <Cell><Data ss:Type="String">Can alcohol be drunk when a person is taking 50 mcg/day of euthyrox?</Data></Cell>
+    <Cell><Data ss:Type="String">While various foods and medications affect the absorption of levothyroxine, alcohol has no significant interaction with this medication. Moderation is the key - a little every now and then will be fine.&#10;Consuming alcohol on a regular basis could lead to liver disease and is not recommended. Because levothyroxine is broken down by the liver, it is possible that alcohol-induced liver dysfunction could change the metabolism of levothyroxine.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/unprotected-sex-boyfriend-together-year-lost-746384.html</Data></Cell>
+    <Cell><Data ss:Type="String">Unprotected Sex - I have a boyfriend &amp; we have been together for a year . We lost it to each other,?</Data></Cell>
+    <Cell><Data ss:Type="String">Purchase a pregnancy test today and/or in a case where you strongly suspect you are pregnant purchase a plan B day after pill.&#10;If you feel as you will end up having sex more frequently, plan for it by getting on more permanent birth control and/or start using condoms. Abstinence seems as not an option and that is natural do not feel bad about it just plan for the situation as a modern woman and be prepared next time.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/anyone-side-effects-night-time-leg-cramps-taking-746394.html</Data></Cell>
+    <Cell><Data ss:Type="String">Has anyone had some side effects such as night time leg cramps while taking Norco 10-325?</Data></Cell>
+    <Cell><Data ss:Type="String">Hi Temeculaboy,&#10;May I ask why you are taking Norco, that may determine the reason for your leg cramps.&#10;I have leg cramps all day long, but I've Fibromyalgia and Neuropathy, so that explains it. Are you taking lots of it then taking none at times? Withdrawal from Norco can cause hellacious leg cramps, could that be the reason?; Just a wee bit more info would help us to answer your query, like why are you taking it, are you taking it religiously or sometimes? &#10;Thank you,&#10;Lara; No I have been taking the same does of Norco for over 3 years now, and the night time leg cramps have been happening just about every night some times all night long. I do find in the day time that I do get the leg cramps but its not like all the time mayber once a week during day time hours.I have tried to adjust the time I take Norco but that still has not worked.; Hell yes! It hurts so bad. I can't sleep thru the leg pain! Getting off is much worse with the leg pain. I think your body is telling you to slow to a stop from the norcos. Thats what mine was telling me. Now I'm on 2 days without and during the day it hurts much worse at night. Good luck!; So does Norco cause leg cramps or not? I'm currently taking it post op total knee replacement after the doc wanted me to come off the Percocet I was taking ... I take 2 mg. Klonopin (clonazepam) and 75 mg. Trazodone for my restless leg syndrome ... this question peaked my interest as I had some leg cramping issues last night that really surprised me since the Klonopin/Trazodone combo has almost resolved all of it ... but this was also the same day as I had therapy and when I came home I was in my hot tub for about 45 minutes ... maybe doing to much in one day caused the leg cramping? I do ice when I sleep ... any thoughts?</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/painful-swolen-ankles-symptom-leaky-heart-746418.html</Data></Cell>
+    <Cell><Data ss:Type="String">Could painful swolen ankles be a symptom of leaky heart?</Data></Cell>
+    <Cell><Data ss:Type="String">Not a leaky heart ... but other related problems. Please see your doctor.; Yes. Leaky valve in Heart can cause swelling of ankles . The condition puts extrea load on heart and if one of the valves is not closing properly , condition called regurgitation occurs. This needs medical intervention and sometimes Sugery.I have following suggestions.&#10;1.Improve Exercise tolerance.Regular Walk and Physiotherapy for Legs will be of great help.&#10;2. Ensure fluid control and reduce salt and sugar intake.Institute a Good Diet regime.I always recommend ,reducing food intake at dinner by 30 %.&#10;3.Meditation , Prayers and Yoga are Great help.&#10;4.Regular MASSAGE is MUST.Use Good Quality Massage Oil.I wonder whether you can get one from Indian store.&#10;5.Deep Breathing and other special exercises will help to reverse the condition by strengthening Heart.&#10;6. Please see a cardiologist and get check up done . Initially medicines will help but remember Body is the Hero-God Bless&#10; I AM TELLING FROM EXPERIENCE AFTER SURVIVING SEVERE HEART ATTACK&#45;-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/simvastatin-make-drowsy-746428.html</Data></Cell>
+    <Cell><Data ss:Type="String">When I take Simvastatin would it make me drowsy?</Data></Cell>
+    <Cell><Data ss:Type="String">Although drowsiness is not a known side effect of simvastatin ... it's difficult to always say that it definitely won't happen. But highly likely that you won't be drowsy.; https://www.drugs.com/sfx/simvastatin-side-effects.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/talwin-nx-equivalent-vicodin-746429.html</Data></Cell>
+    <Cell><Data ss:Type="String">What is talwin nx equivalent to is it like a vicodin?</Data></Cell>
+    <Cell><Data ss:Type="String">The active ingredients in Talwin NX are pentazocine hydrochloride and naloxone hydrochloride. It is an analgesic used to treat moderate to severe pain.; Talwin is an effective pain reliever. When compared to Vicodin (hydrocodone) it is as effective as a 5mg or maybe a 7.5mg tablet.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/jetrea-ocriplasmin-injection-yesterday-746452.html</Data></Cell>
+    <Cell><Data ss:Type="String">Jetrea - does anyone know how long the side effects might last?</Data></Cell>
+    <Cell><Data ss:Type="String">I am answering the question myself . The striking visual activity - like hundreds of fireworks going off continually - diminished and faded away after about 48 hours . The eye itself is still pretty bloodshot and a bit swollen , but happily the pain has now largely subsided.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/you-baclofen-menstrual-cramps-746473.html</Data></Cell>
+    <Cell><Data ss:Type="String">Can you take baclofen for menstrual cramps?</Data></Cell>
+    <Cell><Data ss:Type="String">Baclofen isn't really indicated for the treatment of menstrual cramps. However, your doctor may know more about its use.; Baclofen is meant for very serious muscle spasticity from complications of autoimmune diseases, such as MS, not for menstrual cramps.&#10;Buy some Midol or Ibuprofen, or if your cramps are truly hellacious see your Gynecologist.&#10;Best wishes to you, hope your doc figures out why your cramps are so bad.&#10;Lara</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/topamax-46-year-women-recommended-tompiriamate-746486.html</Data></Cell>
+    <Cell><Data ss:Type="String">Topamax - Hi I'm a 46 year old women and have currently been recommended tompiriamate for migraines?</Data></Cell>
+    <Cell><Data ss:Type="String">I would discuss with your doctor about using a different drug. This is a very dirty drug, that effects your thinking, slowing your thought process is the main complaint, and in some cases speech, you repeat your words when speaking to others. Most psychiatrist hate this drug because of the side effects that it causes. Good luck.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/question-cymbalta-746488.html</Data></Cell>
+    <Cell><Data ss:Type="String">Why does Cymbalta seem only to help at night?</Data></Cell>
+    <Cell><Data ss:Type="String">Hi It. I don't know why you feel better at night than you do during the day. I looked it up and I didn't find anything to answer your question. From my experience, I take cymbalta when I get up, and it works all day and through the night. When do you take it and how often? Why don't you give your doc a call, or even a pharmacist? It's kind of strange, unless your taking 2 pills a day. I know it gives me energy, and I feel so much better. I hope you feel that way, or find a med that works for you. Don't worry. You'll be fine. Stay in touch with me. I'd like to know how you are. &#10;pickles503</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/after-losing-weight-dosage-changed-synthroid-746502.html</Data></Cell>
+    <Cell><Data ss:Type="String">After losing too much weight should the dosage be changed on Synthroid?</Data></Cell>
+    <Cell><Data ss:Type="String">His synthroid is dosed according to his TSH. The surgery also made him loose weight and now that its done, he will most likely gain some back. You can offer nutritional supplement drinks to help with weight gain.; Hello. Some people react to surgery in a depressive state. They question their mortality, future, past, etc. has this been happening to him? Medication and stress can cause some weight loss. Was his weight the best prior to the operation? Knowing his height is essential. Recovery can also be slow and loss of muscle can occur depending upon his exercise. This can be gained back. Many facilities offer cardiac rehab programs which I encourage.; Finally, does the doctor view his weight loss as an issue or was it beneficial for his heart?. If they haven't done a TSH since surgery, he should have one done right away. Perhaps you can go with him, if you haven't, to his next appointment. Guys are pretty shy with giving out health facts.; Hope he continues to improve. If he is depressed or you think he is, please discuss this with him and his physician. Denial isn't really an answer. Karen</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/son-sleep-study-test-done-stop-prozac-he-sleep-746503.html</Data></Cell>
+    <Cell><Data ss:Type="String">My son who has aspergers needs to stop Prozac to have a sleep study done, not sure if a good idea?</Data></Cell>
+    <Cell><Data ss:Type="String">When it's and adolescent usually the parents could stay with he or she... some places will even come to the home for disabled children... But, why would they take him off anything??? In the sleep study, they watch vitals/breathing mostly... and we never made people stop their meds. It would change vitals because withdrawal of the many meds. as well as the sleep changes it should be whats going on now regardless of the meds. He is on... I wouldn't cancel the study it's very important to have it done asap if something is going on... ask them why he can't take it??? If he cannot take it can he take melatonin??? If you can stay bring a blanket and pillow from home and stuffed animal or something than soothes him... maybe music may be allowed? I have worked with many kids with autism/aspergers,TS, ADHD, PTSD,etc.; Hope it all works out... &#10;Never hesitate to ask your Dr questions the sleep study place or on here...; Take care!; Geez. Unless they want to see what he's doing at night if he doesn't have meds, why would they stop his antidepressant. How long does he have to be off of it? If its only 1 day, that's ok. If he has to be off of it for any length of time, I don't think I'd do it. It will take a while to get it back to the level needed. I'm sure you could tell them what happens when he doesn't take it, lol.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/qsymia-insurance-approve-adhd-bipolar-746518.html</Data></Cell>
+    <Cell><Data ss:Type="String">Qsymia - will insurance approve this for adhd or bipolar?</Data></Cell>
+    <Cell><Data ss:Type="String">Since its for weight loss, why would anyone want it for adhd or bipolar? All qsymia is a combination of medications that come in generics if taken singly.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/levothyroxine-3-4-months-chesty-cough-brings-746573.html</Data></Cell>
+    <Cell><Data ss:Type="String">Levothyroxine - could this cause a chesty cough with phlegm?</Data></Cell>
+    <Cell><Data ss:Type="String">Its not the med doing it. There are things that can cause sinus or lung infections that would not respond to antibiotics, because they aren't bacteria. Your dr needs to culture the mucous you're coughing up and find out what's going on. Has he done a chest xray? The thyroid replacement is needed. Your body needs the thyroid hormone to function.; Hello. Kaismama is correct. You are describing Pneumonia. Please see someone right away. left untreated can be very dangerous. I am not a doctor, but I have had a number of various types of pneumonias.; Thyroid medication is a hormone your body needs to function. As she said, without it you will have severe response that can be fatal. Since this has been a short time on thyroid medication, you may not have fully adapted to it. But it does not cause this type of illness. In fact it helps maintain the health of your body.; Please see a doctor right away. If you have a fever over 101 degrees Fahrenheit, you may have to seek an ER. Let us know what the doctor finds, if you get a chance. Wishing you wellness and fast recovery. Karen; Is your cough coming from your chest or your throat? I have had some awful problems with phlegm too - it's frothy and clear. I have other medical problems but over the past few months my levothyroxine has had to be reduced to check whether it is that which is causing breathlessness and bad cough. It's a dry cough and is not in chest (I have had x-rays and scans to check). I also had realy dry itchy skin on the trunk of my body. Not saying it is the levothyroxine but in my case it does seem to be the case. As the dose has been reduced the cough has become much better. There was a time when I was coughing almost 24/7.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/stop-meloxicam-before-surgery-746579.html</Data></Cell>
+    <Cell><Data ss:Type="String">When to stop Meloxicam before surgery?</Data></Cell>
+    <Cell><Data ss:Type="String">The surgeon should tell you this. I'd give them a call and ask them since he hasn't.; Stop at least 7 days before surgery, mobic and any other NSAIDS.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/byetta-10mg-4-yrs-normal-bmi-blood-sugar-levels-746590.html</Data></Cell>
+    <Cell><Data ss:Type="String">Dr told me to stop Byetta because normal BMI and blood sugar, now levels have shot up ?</Data></Cell>
+    <Cell><Data ss:Type="String">A water infection? If your blood sugar is up, it supports infection. Why did the dr take you off of it? I think I'd go to an endocrinologist. They are the experts in diabetes. If it took byetta to get it down, why does he think it will stay down without it?</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/you-nugenix-viagra-you-taking-blood-pressure-746609.html</Data></Cell>
+    <Cell><Data ss:Type="String">Can you take nugenix with viagra if you taking blood pressure medical?</Data></Cell>
+    <Cell><Data ss:Type="String">It's probably best to discuss this with your doctor. Nugenix claim to be a testosterone booster... since it is not something approved by the FDA it's not possible to say whether it'll work as claimed.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/ortho-evra-patch-2-years-month-day-after-puting-746623.html</Data></Cell>
+    <Cell><Data ss:Type="String">Ortho Evra - I have been on the patch for 2 years. but this month , next day after puting the patch?</Data></Cell>
+    <Cell><Data ss:Type="String">Did you replace the patches with ones that weren't expired? If you're not using birth control you can get pregnant. When you took the patch off, the hormone level in your body dropped, so your body reacted by bleeding. There's no way to tell you exactly when you'll get your period. If you want to get pregnant, it can take up to a year to be back on track and pregnant. Of course it could happen tomorrow.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/neurontin-wll-ms-spasticity-746637.html</Data></Cell>
+    <Cell><Data ss:Type="String">Neurontin - wll it help,ms spasticity?</Data></Cell>
+    <Cell><Data ss:Type="String">It helps nerve pain. I haven't heard anything about spasms. I'm used to seeing baclofen for the spasticity of MS. Drs seem to be using neurontin for more and more and its worth a try.; Hi ginny,&#10;I get terrible twitching in my legs but from Fibromyalgia, unless the diagnoses has switched to something else and I can tell you that Neurontin does NOT help with twitching! Baclofen worked like a charm for me, best med I ever tried for the pain, twitching and muscle spasms.; Have you tried Baclofen? It does have some nasty side effects at high doses but maybe you could keep it low enough to have a good result?&#10;Best wishes,&#10;Lara</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/transient-ischemic-attack-45-year-woman-barely-746639.html</Data></Cell>
+    <Cell><Data ss:Type="String">Transient Ischemic Attack - I am a 45 year old woman, with barely controllable genetic based high?</Data></Cell>
+    <Cell><Data ss:Type="String">I would recommend that you see a Hematologist right away for a full blood work up. It sounds as if you have a bleeding disorder that is causing you to have these TIAs. Don't forget to take the images on a DVD for the doctor to review.; It sounds like since your cholesterol &amp; triglycerides are high you have Narrowing of the blood vessels.&#10;Usually once the blood vessels are narrowed it is easier for the vessels to get clots. &#10;I assume that the drs. have you on medication to control your cholesterol &amp; triglycerides?&#10;You need to make sure the dr. handling prescribing these drugs are aware of the lesions? If so they may need to increase our change your medication to get these under control.&#10;I also had the same things happening to me &amp; now I have been diagnosed with Vascular dementia. &#10;I have so many lesions that has hit my memory section of the brain that I now have dementia.&#10;So please keep pushing your drs. to help get you on a good program. Best of luck, Kathy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/surgery-l5-s1-long-surgery-anyone-after-effect-746640.html</Data></Cell>
+    <Cell><Data ss:Type="String">Surgery on l5 s1 how long does the surgery take and does anyone know what the after effect is?</Data></Cell>
+    <Cell><Data ss:Type="String">Depends on what surgery you are having done, the condition your body is in, what medical conditions you have, what meds you are on, your doctor and his/her team. A lot of variables. That's a question best asked of your surgeon, or their assistant. Kind regards - ElizaJane</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/you-enter-neupogen-vial-medication-bad-after-746641.html</Data></Cell>
+    <Cell><Data ss:Type="String">Why can't you re-enter a neupogen vial? Does the medication go bad after first dose?</Data></Cell>
+    <Cell><Data ss:Type="String">Its because they come in single dose vials. There is no preservative or anything to stop bacteria growth. There is the chance that once its opened it could have some bacterial growth. Not something you need with a low white count. Go here www.amgenassist.com/index.jsp and see if you can get help paying for it. The manufacturer has an assistance program.; They are only for a single dose. They must be Refrigerated between 36-46 degrees F (2-8 degrees C). It goes bad quickly if left out especially in direct sunlight and is very warm and has discoloration it has gone bad. Out of the fridge it is only &quot;stable&quot; at the max of 24 hrs. NEVER shake the vials or pre-loaded syringes they will be less likely to work... also, it goes by height and weight for the most part of how much you take... unless your WBC is higher than it needs to be- you will stay on the dosage given... at time when WBC is still too low you may be put on a dose 2x daily. Having many blood tests to see progress... Please do not reuse needles! I constantly gave the speeches to my family and patients just using finger sticks for diabetes... Even though, it's your own needle and blood it still has bacteria&amp;may cause and infection from dirty needles... that is why I like the one use only needles preventing people from reuse... ok, I'm done with that... :o) &#10;If you have any more questions or I have made my reply unclear please let me know!&#10;I hope you are feeling better soon, take care God Bless! &#10;●○•°Danie°•○●</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/unprotected-sex-saturday-morning-told-sperm-inside-746650.html</Data></Cell>
+    <Cell><Data ss:Type="String">I had unprotected sex on saturday morning. I was just told that some of the sperm got inside?</Data></Cell>
+    <Cell><Data ss:Type="String">If you only took one the next day, its not going to help. You would need several or an emergency contraceptive. Playing around depending on the male not spilling sperm in you is foolish, they always do, they can't control it. If I were you I'd get on a regular birth control pill.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/lisinopril-extreme-fatigue-drop-bloodpressure-746670.html</Data></Cell>
+    <Cell><Data ss:Type="String">Does Lisinopril cause extreme fatigue? Could it be a drop in bloodpressure?</Data></Cell>
+    <Cell><Data ss:Type="String">It is a side effect. Curiously I feel more fatigued when my bp is up. If you've just started on it, give a little time to get used to it, but when you see your dr again tell him about it.; Yes it can! I was supposed to take 10mg of Lisinopril but when I did I got dizzy because My BP was so low and it also gave Me migraines. I cut the dose back to 5mg and still get times when My BP is so low that I cant even move.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/you-give-salbutamol-nebulisation-child-pneumonia-746690.html</Data></Cell>
+    <Cell><Data ss:Type="String">Can you give salbutamol nebulisation to a child with pneumonia?</Data></Cell>
+    <Cell><Data ss:Type="String">i've seen this given to kids, however you should not give it, without the child's dr ordering it. I'm assuming since you know its pneumonia that the child has seen a dr. If he wanted the nebulizer he would have ordered it.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/benzalkonium-exposed-extreme-heat-746707.html</Data></Cell>
+    <Cell><Data ss:Type="String">What happens when benzalkonium is exposed to extreme heat?</Data></Cell>
+    <Cell><Data ss:Type="String">Extreme heat will cause benzalkonium to decompose producing toxic and corrosive fumes including ammonia, chlorine and nitrogen oxides.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/orlistat-3-5-days-side-effects-good-sign-working-746776.html</Data></Cell>
+    <Cell><Data ss:Type="String">Orlistat - Only taken for 3 .5 days had no side effects, is this good or sign it not working?</Data></Cell>
+    <Cell><Data ss:Type="String">No, it probably just means you are consuming very little oil or fat. Keep it up.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/vitamin-b12-deficiency-side-effects-low-12-levels-746782.html</Data></Cell>
+    <Cell><Data ss:Type="String">Vitamin B12 Deficiency - What r side effects from low b-12 levels?</Data></Cell>
+    <Cell><Data ss:Type="String">The symptom that is most noticeable is fatigue, at first. Sore tongue can happen, easy bruising, stomach problems. In advanced cases it can cause peripheral neuropathy and memory loss/moodiness. Blood work would most likely show anemia.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/safe-metformin-low-calorie-diet-450-calories-day-746789.html</Data></Cell>
+    <Cell><Data ss:Type="String">Is it safe to take metformin while on a low calorie diet of 450 calories per day?</Data></Cell>
+    <Cell><Data ss:Type="String">You should not start any diet without consulting with your doctor. You are on medication that is based on your caloric intake now. I hope you don't plan on doing anything if you're on that low of calories, its not enough to keep you moving and can lead to a dangerous condition called acidosis.; That level of diet is going to cause you trouble. See a dietician after you talk with your physician. You can't do it all at once and a crash diet like this will give you a huge rebound effect of even more weight. Slow and steady gets and keeps results. Please don't start this diet until your medication is adjusted. Low sugar readings are deadly, you know.; dear murrypuss, i am NOT a doctor, but 450 calories a day??? That is NOT enough, even for a well person. Just 6 months ago I was paralyzed from neck down by potassium levels too low. Was told it could have affected organs next had I not rec'd treatment when I did. Your body will not react well with that few calories, hon, and can be very dangerous. Please talk to someone before you start this...; You need more then 450 calories a day; I totally agree with every answer above! That is not enough calories for anyone. Much less a diabetic. You are going to feel fatigue and tired. That sounds dangerous to me. I would consult my Physician and increase my calories with veggies and fiber at least. Foods that are good for your body. hope this helped, I am definitely not a doctor. But that is not the proper way to lose weight. Well wishes and good luck.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/hepatocellular-carcinoma-5-cm-nodule-multiple-746806.html</Data></Cell>
+    <Cell><Data ss:Type="String">Hepatocellular Carcinoma - is a liver transplant the only cure?</Data></Cell>
+    <Cell><Data ss:Type="String">Leeguinn,&#10;I thankfully do not have this type of cancer, so I had to research a little bit on drugs.com. It says:; &quot;Definition: Malignant tumor of the liver that develops in the setting of chronic liver disease or cirrhosis. Hepatocellular carcinoma is derived from hepatocytes that are transformed into adenocarcinoma. Up to 60% of patients with HCC have elevated serum alpha fetoprotein levels. Tumor has a poor long-term prognosis unless treated surgically by resection or liver transplantation. Noninvasive imaging (e.g., MRI or CT scan) may distinguish hepatomas from other benign tumors such as hemangiomas.&quot;; I interpret this to mean that in some cases the tumor can be removed. If yours can be surgically resected, then you could have chemo and radiation for the smaller lesions. Your doctor would know your individual case better than anyone though. So, please have a long &quot;sit down&quot; with him/her. I wish you the very best outcome and will keep you in my prayers. I've been in your shoes, and I know how scary it is. I did not have liver cancer, but cancer of the plasma cells (multiple myeloma). Keep your chin up and take one day at a time. We can't worry about what might happen tomorrow until it comes. Stay strong and let us know if you need us. Our DC Family is very knowledgeable, caring and supportive. Lean on us!&#10;Your friend,&#10;Kathy; Hello. Kathy is so right. Be sure you get another opinion. If the cancer has become metastatic your options are more limited. Hope you have the talk very soon. Good luck with getting the right plan for you. Karen</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/thyroid-taking-taking-100mcg-day-feeling-shakie-746820.html</Data></Cell>
+    <Cell><Data ss:Type="String">Just had my thyroid taking out and I'm taking 100mcg a day.but feeling shakie and weak?</Data></Cell>
+    <Cell><Data ss:Type="String">Hello. Do you think you have an infection? Fever?; Are you remembering to take your calcium daily? 1200mg every day.; Do you take the medication half an hour before breakfast, first thing in the morning, with a full glass of water?; Assuming you are following directions, I think it is best for you to call the doctor. This is not normal response. You may well be having a reaction to the surgery, an infection, or some other response. Since thyroid medication takes a long time to change your system you may be having something else going on. Drink lots of water. If you get worse best to go to the ER and be checked out. Dont wait on this. If you having any signs of bleeding or very light headed, Be sure to go right away.; Give it time. It may take 3 to 4 weeks for you to fully recover.; Hi bmshell,; I had my out too. It takes awhile to adjust. It took me a year to get to the right level because I was supressed because I had thyroid cancer. When you feel shaky usually means your dose is too high. Give it a few days and call your Endo to discuss. If you feel worse call right away. You also call the pharmacist for info. too.; Take care,; Smileyhappy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/you-provide-low-income-patients-746825.html</Data></Cell>
+    <Cell><Data ss:Type="String">Do you provide help for low income patients?</Data></Cell>
+    <Cell><Data ss:Type="String">We don't provide any finances, most of us are in the same shape you are. We are a community support group. Drugs.com is an information site and sells nothing or assists financially. What is it you need help with and maybe we can tell you what you need to know to get it?; Hi Wayne,&#10;kaismama is right, but if you add what meds you take, we might be able to google the phone numbers for patient assistant programs for you, just tell us what you need.&#10;Lara</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/fingers-crippling-746826.html</Data></Cell>
+    <Cell><Data ss:Type="String">Fingers crippling up?</Data></Cell>
+    <Cell><Data ss:Type="String">Now that you've listed your systems what is your question?; Hi silverfox,&#10;Of course you are irritated all the time, you don't feel well! You need to make an appointment with a good internist, have a physical and find out why you are experiencing these symptoms. &#10;Also who would have a sex drive if they have abdominal cramping all the time? Losing control of your bladder could be many things, from prostate problems to the constipation aggravating you so badly that you can't hold urine in.&#10;Make that appointment so you can take care of YOU.&#10;Best wishes,&#10;Lara</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/humira-anyone-developed-severe-mouth-sores-746866.html</Data></Cell>
+    <Cell><Data ss:Type="String">Humira - Has anyone ever developed severe mouth sores?</Data></Cell>
+    <Cell><Data ss:Type="String">Hi cmillern, I have been on Humira (Pen Injections once a week) for about 2 yrs. Sorry to say I have not gotten the mouth sores you describe, but I do get a really nasty oral yeast infection (thrush) that completely takes over my whole mouth and throat. I had them b4 Humira infrequently, after Humira more often and it takes forever to go away. It makes it feel like I have a constant sore throat cause it is covered up with the white paste all the way down that I can feel. Food taste strange and pills are harder to swallow. Wish I could be more help. Good luck and be well as can be...</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/sex-3rd-day-bleeding-her-monthly-period-pregnant-746948.html</Data></Cell>
+    <Cell><Data ss:Type="String">We had sex on 3rd day during bleeding of her monthly period,, could we became pregnant?</Data></Cell>
+    <Cell><Data ss:Type="String">She is not protected by the pill until she has taken 7 days worth. It would be possible to get pregnant.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/long-fully-citalopram-withdrawal-side-effects-746957.html</Data></Cell>
+    <Cell><Data ss:Type="String">How long does it take to fully be off Citalopram without having withdrawal side effects?</Data></Cell>
+    <Cell><Data ss:Type="String">Hello Life on Life. It can take weeks in regards to Citalopram (not having any side effects) In regards to the Buproprian a taper is suggested and your doctor can advise a plan to assist. Regards pledge; I'm reaching the end of week 4 after stopping Citalopram... and still have dizziness and blurred vision.; From other sources the average withdrawal from Citalopram I've found has been 2.5 months. But everyone is different.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/you-wean-repreve-746965.html</Data></Cell>
+    <Cell><Data ss:Type="String">How do you wean off repreve?</Data></Cell>
+    <Cell><Data ss:Type="String">Hello trevor beaver. The manufacturer might be able to offer help. Regards pledge; It is the same drug as in requip. With that you'd taper the dose over 7 days then stop.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/doxycycline-2-weeks-lyme-disease-fingers-toes-746976.html</Data></Cell>
+    <Cell><Data ss:Type="String">I am on doxycycline for about 2 weeks for Lyme disease &amp; my fingers&amp; toes tingle a lot along feelin?</Data></Cell>
+    <Cell><Data ss:Type="String">Hi, this is a potential side effect of this medication unfortunately. Is it bearable? How long do you need to continue with this treatment? If not too long and you can tolerate it, then good, but otherwise, speak to your doctor about a change of treatment, or an addition to help treat these side effects&#10;https://www.drugs.com/doxycycline.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/20mg-lexapro-747011.html</Data></Cell>
+    <Cell><Data ss:Type="String">Does anybody else take more than 20mg lexapro?</Data></Cell>
+    <Cell><Data ss:Type="String">The max recommended dose is 20 mg. If its not helping you you may need a change in medication.; my doctor said the recommened dose is 10 mil for my age 68. you need to go to a psychiatrist if not. they are dr. who specialize in this kind of disorder. not just a general GP. THEY R NOT THERAPIST they're only job is to help you with the medication that you need for this disorder.; plus you can't just take medication alone have to have some kind of behavior therapy . I'm seeing a therapist. she uses the cognitive behavioural method.; it is ruff i know. dealing with it since 1979. however never really doing anything other than taking meds. now using the other. i will be. victorious.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/chronic-pain-welcome-justin-clinton-you-joined-747012.html</Data></Cell>
+    <Cell><Data ss:Type="String">Chronic Pain - Welcome, Justin Clinton, you joined the group but did not ask a question?</Data></Cell>
+    <Cell><Data ss:Type="String">Yes for sure I am new to this too. Ive been in pain for 16y people ask me how I do it and I tell them first off by alot of prayers to my heavenly father. and you just get use to it. and I get some help with pain clinic. if your pain cannot be fixed and make sure of that before you go to pain clinic.! try everthing first. believe me I know. good luck; ChelleKay is dead on... a lot of support, different prespectives and knowledge from medical professionals of all sorts of backgrounds... I have been a paramedic for 23 years... I give that aspect, as well as , my strategiesnand treatment regimines due to my chronic pain and other issues. Knowledge is always plentiful here... as well as straightforward and to the point answers put in laymans terms so you dont have to be a medical professional to undersrand... so, ask away... you can never learn if u dont ask!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/put-oral-amoxicillin-refrigerator-747013.html</Data></Cell>
+    <Cell><Data ss:Type="String">Do I put oral amoxicillin go in refrigerator?</Data></Cell>
+    <Cell><Data ss:Type="String">If it's liquid I do believe yes, if pills (both are oral) no.&#10;Call pharmacy if you are confused.&#10;Best wishes to you,&#10;Lara</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/muscle-tension-taking-viibryd-747021.html</Data></Cell>
+    <Cell><Data ss:Type="String">Muscle Tension while taking Viibryd?</Data></Cell>
+    <Cell><Data ss:Type="String">There are such side effects with this medication. Please contact your doctor about this soon. This may be a class of medication which you aren't able to take. Some people are experiencing permanent effects. Others find they adjust. Since you have already experienced this a good talk with the doctor will be your answer. Be sure you are seeing a specialist, not a general physician.; I have been experiencing joint pain a little after starting this medication. I thought it was one if my symptoms of my period but I do think it might be a side effect. I am starting my third week on the starter pack so I will be taking the first 40 mg in the morning. My joint pain is getting better and hopefully won't get worse with the increase. I have noticed my legs have been itching and burning as well so I'm hoping that will get better too. I posted a long question as to things I have questions about so I wish u luck.; Hi BeckyK and also Heather, &#10;Sorry I missed your questions/comments before. I just wanted to check in and see how each of you were now doing on your Viibryd titration. I experienced some muscle/joint pain but at one time, but didn't relate it to my V dosage. It disappeared like all the other side effects. I think you'll find some of the side effects present when you step up your dose, others not at all. I got through them and soldiered on because I was finally feeling so much better.&#10; Coming up on one year later, Viibryd has been life changing for me. Please feel free to use the forum or send me a private message if I can help along your path. Hope you are both feeling better. &#10;Your Friend, &#10;Frenchie; I also feel like my jaw is clenched now that I am on this med. I don't have any remedy. I just deal with it.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/question&#45;-yasmin-747033.html</Data></Cell>
+    <Cell><Data ss:Type="String">How much is yasmin?</Data></Cell>
+    <Cell><Data ss:Type="String">Drugstore. com says $85.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/lorazepam-food-747039.html</Data></Cell>
+    <Cell><Data ss:Type="String">O I take this pill lorazepam with food?</Data></Cell>
+    <Cell><Data ss:Type="String">Lorazepam works better and faster on a empty stomach, although yes you can take it with food</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/dr-prescribed-norethindrone-stop-period-quit-747056.html</Data></Cell>
+    <Cell><Data ss:Type="String">My dr prescribed norethindrone to stop my period. I quit taking it due to severe headaches it?</Data></Cell>
+    <Cell><Data ss:Type="String">Hello Smam and welcome to DC. I don't know what is normal for you but as a woman I can tell you I had many episodes like the ones you are describing. Sometimes I had to use a pad along with a tampon to avoid those embarrassing breakthrough moments.; I can tell you that walking helps the cramps and so does coffee. I always could tell when my period was coming by my caffeine cravings. It did help with the cramps. Sometimes I had to take motrin or something like that. For some women... menstrual pain and bleeding is severe enough to require a trip to the ob/gyn. I suffered a miscarriage, for instance, that mimicked a period that just wouldn't stop. I mean two weeks later I am still bleeding. But that is how some miscarriages go. Some women are prescribed birth control to control the severity of those symptoms as well as the duration.; By the way... changing a tampon in one hour isn't abnormal. I thought it was much easier to wear a pad because for me it was more predictable. I had many a leak with those teenie weenie plugs and still needed a pad any way.; If you are truly concerned then perhaps seeing your ob/gyn is in order. You don't also have endometreosis do you??? That can make for more abnormal periods...</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/you-special-training-flush-draw-blood-subclavian-747058.html</Data></Cell>
+    <Cell><Data ss:Type="String">Do you have to have special training to flush or draw blood from the subclavian port?</Data></Cell>
+    <Cell><Data ss:Type="String">If you've never done it, you should at least be shown how. Is the port used to give anything to the patient?</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/pregnant-yasmin-3-hours-ago-before-contact-747065.html</Data></Cell>
+    <Cell><Data ss:Type="String">Will I get pregnant when I just took yasmin 3 hours ago before we had a contact?</Data></Cell>
+    <Cell><Data ss:Type="String">Oh my, you really don't understand your body or the pill do you? Was that the only time you took it or are you on yasmin regularly? If you're on yasmin, you would have a very small chance of pregnancy, whether or not you already took it for the day. If you think taking one before you have sex, and that's the only one you took, you're wrong.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/meloxicam-15mg-split-half-747151.html</Data></Cell>
+    <Cell><Data ss:Type="String">Can Meloxicam 15mg pill be split in half?</Data></Cell>
+    <Cell><Data ss:Type="String">Although it's not ideal but yes, you can split a meloxicam 15mg tablet in half. It doesn't have any extended release coating on it so it should be okay.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/vyvanse-side-effects-lessen-disappear-over-time-747153.html</Data></Cell>
+    <Cell><Data ss:Type="String">Vyvanse - Do any of the side effects lessen or disappear over time after starting medication?</Data></Cell>
+    <Cell><Data ss:Type="String">It's difficult to predict what will happen. Some side effects settle as the body adjusts while others do not go away.&#10;Try giving the Vyvanse after breakfast in the morning, if he's not hungry wait a little longer to see if he will eat first. Hopefully he'll make it up at dinner time.&#10;If the side effects don't improve and become troublesome see your doctor. Vyvanse may not be the best option for your son.&#10;You may like to read these: https://www.drugs.com/comments/lisdexamfetamine/vyvanse-for-attention-deficit-disorder.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/regular-periods-dermatologist-wanted-start-taking-747154.html</Data></Cell>
+    <Cell><Data ss:Type="String">I do not get regular periods and my dermatologist wanted me to start taking ortho tri-cyclen lo. But</Data></Cell>
+    <Cell><Data ss:Type="String">It does not matter when you start taking the pills but you will need to wait for 7 days until you are protected from pregnancy. All the best.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/long-story-short-stopped-taking-jolivette-mid-747159.html</Data></Cell>
+    <Cell><Data ss:Type="String">Long story short, I stopped taking my Jolivette mid-pack last Wednesday, but I want to get back on?</Data></Cell>
+    <Cell><Data ss:Type="String">Start a new pack whenever it suits. You will need to wait for 7 days until you are protected again. It is likely you will experience some breakthrough bleeding as your body adjusts to the hormone changes. This is normal and will not impact on the effectiveness of your birth control.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/missed-atenolol-25mg-night-1-747163.html</Data></Cell>
+    <Cell><Data ss:Type="String">I missed my atenolol 25mg last night,should I take 1 now?</Data></Cell>
+    <Cell><Data ss:Type="String">Sorry it's taken this long to answer your question. &#10;This from: https://www.drugs.com/atenolol.html&#10;&quot;Take the missed dose as soon as you remember. If your next dose is less than 8 hours away, skip the missed dose and take the medicine at the next regularly scheduled time. Do not take extra medicine to make up the missed dose.&quot;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/long-invega-stay-system-after-discontinued-747165.html</Data></Cell>
+    <Cell><Data ss:Type="String">How long does invega stay in your system after it has been discontinued?</Data></Cell>
+    <Cell><Data ss:Type="String">Invega has a long half life range of 25 to 49 days. This is the time it takes for plasma levels to fall by half.&#10;It roughly takes around 5 to 6 half lives for a drug to be eliminated from your system.&#10;Using this calculation then, after your last dose, you could expect it to take anywhere between 150 to 300 days to be cleared from your system.; Factors that also affect the rate at which it is eliminated include age, health, weight, metabolism etc.; Hi &#10;Its been 6 and half month since my last injection and i still have side effects like tired body headache loss in concentration and pressure in my lungs can there be any type of solution to get rid of these side effects? Give me hope and God bless !!; I know you are suffering as I have too, but it will be alright. my symptoms have lessened and its been eight months and I guess it depends on how your body eliminates foreign chemicals in your body. I have hope that I will eventually be able to sleep until 7am instead of 5am and take day naps. Just hang in there!!! and don't stress.; I have been feeling really I'll since being on this drug with a lot of sleeping in and no motivation and depressed all the time</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/tramadol-narcotic-pain-medication-747168.html</Data></Cell>
+    <Cell><Data ss:Type="String">Can I take Tramadol with narcotic pain medication?</Data></Cell>
+    <Cell><Data ss:Type="String">Why did he order tramadol with those other meds. You have a long acting and one for breakthru. Why did he order tramadol too? I would call and ask about it. For one thing, tramadol doesn't work well if only taken as needed. It pretty much needs to be taken on a regular schedule for the most effect. Did he mean for you to stop percocet?; Never heard of a doctor who would prescribe so many pain medications and still be licenced..</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/miss-dose-mirapex-747189.html</Data></Cell>
+    <Cell><Data ss:Type="String">If I miss a dose of mirapex what do I do?</Data></Cell>
+    <Cell><Data ss:Type="String">Take the missed dose as soon as you remember. Skip the missed dose if it is almost time for your next scheduled dose. Do not take extra medicine to make up the missed dose.; From: https://www.drugs.com/mirapex.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/long-concerta-stay-system-after-you-stop-taking-747201.html</Data></Cell>
+    <Cell><Data ss:Type="String">How long does concerta stay in your system after you stop taking it?</Data></Cell>
+    <Cell><Data ss:Type="String">Concerta has a short half life of around 3.5 hours ( the time it takes for the plasma level to fall by half) meaning it is eliminated quickly.&#10;It usually takes around 5 to 6 half lives for a drug to be eliminated therefore after 24 hours it should have disappeared.&#10;Factors that also affect the rate at which it is eliminated include age, health, weight, metabolism etc.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/naproxen-change-stool-urine-747203.html</Data></Cell>
+    <Cell><Data ss:Type="String">Will naproxen change your stool and urine?</Data></Cell>
+    <Cell><Data ss:Type="String">If your stools are black, bloody or tarry, or you are urinating less than often then you should see your doctor. These are signs of serious side effects.&#10;https://www.drugs.com/sfx/naproxen-side-effects.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/cialis-10-hours-work-747205.html</Data></Cell>
+    <Cell><Data ss:Type="String">Why does CIALIS take 10 hours to work for me?</Data></Cell>
+    <Cell><Data ss:Type="String">That is very puzzling. It may be best to ask your doctor why this happens.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/taking-predisone-posion-ivy-4-tablets-daily-3-747243.html</Data></Cell>
+    <Cell><Data ss:Type="String">Taking predisone for posion ivy does 4 tablets daily for 3 days, mean take all 4 at the same time?</Data></Cell>
+    <Cell><Data ss:Type="String">Yes, &quot;4 tablets daily&quot; usually means to take them all at once. The best time to take prednisone is usually in the morning just after breakfast. (Clearer instructions would be &quot;Take 4 tablets as a single dose daily&quot;); As opposed to &quot;1 tablet four times a day&quot; which means exactly as it says (to divide the doses)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/think-paxil40mgs-working-effexor-you-think-747258.html</Data></Cell>
+    <Cell><Data ss:Type="String">I think my paxil 40mgs isn't working and was considering going on effexor what do you think?</Data></Cell>
+    <Cell><Data ss:Type="String">You need to ask your dr about it. If paxil isn't working you do need a change, but the dr will decide what that is with your input.; I am tired on effexor but everyone reacts different. Usually when you begin effexor it is a wakeful medication but then it makes you super tired. My cousin and I had that reaction but it could be a family thing. I took Paxil when I had post pardom depression and it made me awake. I thought I was all better and quit taking it, cold turkey. If you do stop taking Paxil, don't stop right away, ask your doc about the taper off plan. I was never so ill getting off a medication as I was from Paxil but it was my first anti-depressant and I didn't know you had to taper off of them unless Dr. tells you is okay. Good luck!; different anti depressants react differently on people. What suits one person may not suit another.; You need to go to your doctor and discuss this. We cannot comment on what medication you should take.; I have been on Effexor 150mg 9 years and it is the best anti-depressant I have been on. I have no side effects except weight gain. Be warned, however, it is a very difficult medication to withdraw from.; Talk to your doctor, of course. I found Effexor XR to be very effective in combating my depression and anxiety. However, it can be a very hard drug to come off of. My current doctor said she would not have prescribed it to me, except that I was already on it when I moved to her practice. You might see if there are other alternatives with less severe withdrawal effects to try first.; As a side note, I experienced both hypertension and erectile dysfunction while on Effexor. Those are major reasons why I want to stop taking it. Not everyone experiences those effects, of course, but be aware they do occur.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/wellbutrin-300-xl-747259.html</Data></Cell>
+    <Cell><Data ss:Type="String">Wellbutrin 300 XL?</Data></Cell>
+    <Cell><Data ss:Type="String">Elontril is the same medication as wellbutrin. They just call them different names in different countries.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/gasx-empty-stomach-after-eat-747264.html</Data></Cell>
+    <Cell><Data ss:Type="String">Can I take GasX on an empty stomach or do I have to take it after I eat?</Data></Cell>
+    <Cell><Data ss:Type="String">You can take it any time you feel you need it.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/son-ten-yers-he-taking-trileptal-150-mg-adhd-747267.html</Data></Cell>
+    <Cell><Data ss:Type="String">My son is ten yers old and he is taking trileptal 150 mg for his ADHD. will it help for that?</Data></Cell>
+    <Cell><Data ss:Type="String">Does he suffer from anxiety or panic attacks? The Trileptal could be useful if he does. It would probably only be used short term though and on a &quot;as needed&quot; basis in conjunction with other ADHD medicines.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/nuedexta-prescribing-nuedxta-crying-after-stroke-747283.html</Data></Cell>
+    <Cell><Data ss:Type="String">Nuedexta - for crying spells, how do you know when to stop taking this?</Data></Cell>
+    <Cell><Data ss:Type="String">If your husband stops taking Nuedexta his crying spells may return. &#10;You could speak to your doctor about coming off Nuedexta to see what happens.&#10;In the end you will need to weigh up if this outweighs the cost of Nuedexta and side effects.; You may like to read these:&#10;https://www.drugs.com/comments/dextromethorphan-quinidine/nuedexta-for-pseudobulbar-affect.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/gianvi-delay-period-1-white-747310.html</Data></Cell>
+    <Cell><Data ss:Type="String">Gianvi - Can I delay my period even if I took 1 white pill?</Data></Cell>
+    <Cell><Data ss:Type="String">You can try by starting your next pack now. It may not work, but there is a chance it will. Don't do this more then 4 times a year however.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/amitiza-length-time-chest-pain-dyspnea-lasts-747311.html</Data></Cell>
+    <Cell><Data ss:Type="String">Amitiza - What is the length of time the chest pain/dyspnea lasts?</Data></Cell>
+    <Cell><Data ss:Type="String">If you are having chest discomfort under any circumstance notify your Dr or go to the emergency room</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/difference-between-lovastatin-pravastatin-747333.html</Data></Cell>
+    <Cell><Data ss:Type="String">What is the difference between lovastatin and pravastatin?</Data></Cell>
+    <Cell><Data ss:Type="String">There isn't a huge amount of difference. They are in the same family and do the same thing.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/degarelix-person-injected-desolve-powder-liquid-747338.html</Data></Cell>
+    <Cell><Data ss:Type="String">Degarelix - The person who injected me did not dissolve the powder in the liquid. What effect will?</Data></Cell>
+    <Cell><Data ss:Type="String">If I'm understanding you correctly, they only gave you the diluant and not the medication. I would be sure to let my dr know asap. Without the medication you didn't get any help from that shot.; Sorry, not the whole description. She added the crystals to the water but did not mix them until they disappeared ; in fact barely shook the bottle until the crystals were just mixed in with the liquid.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/long-you-fml-eye-drops-747374.html</Data></Cell>
+    <Cell><Data ss:Type="String">How long can you use fml eye drops?</Data></Cell>
+    <Cell><Data ss:Type="String">FML is an anti-inflammatory steroid eye drop and is used to treat eye swelling caused by infections, injury, surgery, or other conditions.&#10;The length of time to which it is used will depend on what type of eye condition you are treating. For a short time if it's an acute condition or long term if it's a chronic condition. Your eye specialist is the best person to direct this question to.&#10;https://www.drugs.com/mtm/fml-forte-liquifilm.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/drugs-supplements-result-faster-heart-rate-747405.html</Data></Cell>
+    <Cell><Data ss:Type="String">Can any of my drugs/supplements result in faster heart rate?</Data></Cell>
+    <Cell><Data ss:Type="String">Depends what youre taking?; A list of your meds would be helpful. There are drugs out there that can cause a increase in heart rate.; Many of them including supplements.So be careful.Please take medicines &#10;in night or as per exact time schedule.If you notice any change ,reduce dose.I am following this strategy.with good results. Meditation is very very useful good luck; And so does anxiety, caffeine, lack of sleep. What is going on, White Dragon? Karen</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/boyfriend-unprotected-sex-plan-747414.html</Data></Cell>
+    <Cell><Data ss:Type="String">My boyfriend and I had unprotected sex, I took plan b?</Data></Cell>
+    <Cell><Data ss:Type="String">Stop depending on plan b its not for regular birth control, its for emergencies. You can't be taking it so often and its only about 80% effective. The birth control pill is about 99% effective. It can mess up your cycle for a few months. The other thing Is you had sex after you took it. It is not effective for sex after plan b.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/nucynta-taking-percoset-747436.html</Data></Cell>
+    <Cell><Data ss:Type="String">Nucynta is it like taking a percoset?</Data></Cell>
+    <Cell><Data ss:Type="String">Yes, Nucynta and Percocet are similar.; Nucynta (tapentadol) belongs to a group of drugs called opioid pain relievers. It is similar to morphine. An opioid is sometimes called a narcotic.; Nucynta is used to treat moderate to severe chronic pain. Nucynta ER is used to treat moderate to severe chronic pain, and to treat pain caused by nerve damage in people with diabetes (diabetic peripheral neuropathy).; Percocet contains a combination of acetaminophen and oxycodone. Oxycodone is in a group of drugs called opioid pain relievers. An opioid is sometimes called a narcotic. Acetaminophen is a less potent pain reliever that increases the effects of oxycodone.; Percocet is used to relieve moderate to severe pain.; https://www.drugs.com/nucynta.html; https://www.drugs.com/percocet.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/sleep-aid-keppra-747462.html</Data></Cell>
+    <Cell><Data ss:Type="String">What can I take as a sleep aid while I am on keppra?</Data></Cell>
+    <Cell><Data ss:Type="String">Hi, i agree, ask your doctor, hopefully he/she will prescribe something suitable that doesn't interact with your other medication/s. If you can't get an appointment straight away, i would also recommend trying Melatonin. I've had success with this in the past. We have this chemical naturally occurring in our bodies already, so most people react well towards it.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/pain-ovary-possible-reason-pain-747515.html</Data></Cell>
+    <Cell><Data ss:Type="String">I usually get pain in my ovary, whats the possible reason of this pain?</Data></Cell>
+    <Cell><Data ss:Type="String">The pain could be due to anything. It could depend on the time of your cycle, etc. Your age could be a factor.; If it is really bothering you I would suggest that you please see your doctor.; How do you know its your ovary? I too would say tell your dr.; Hi Athar143,&#10; I hope you are doing better and I just thought I would add my 2 cents.&#10; It's been my experience that pain is always for a reason. Do you have a fever, lack of appetite, nausea or any other symptoms? Endometriosis started that way... I thought it was a yeast infection and things turned bad very fast... got a high fever, dizzy, light headed, and couldn't eat. I wish I went to the doctors sooner. But I have had ovarian cysts and I find them quite painful. Most of these cysts go away on their own but I suffered while they were here. &#10;Hope this helps; Hello. Some women are very sensitive to ovulation. I would often find I knew when I was ovulating when a quick sharp pain would happen.; However, I also had fibroid tumors which would flare up with my cycle. Some would grow larger and hurt. Since these are benign we tended to watch them and see how they were doing. So I suggest you go to a gynecologist to be examined. My general doctor did not catch it and I had a lot of troubles because of it. Usually they do an ultrasound, take a look and keep watch. It does not mean a hysterectomy. They never become cancer and will shrink with age.; Another possibility is an ovarian cyst. These hurt like crazy, double you over and should be seen by a doctor or ER right away. The pain is from internal bleeding and can affect future fertility. So when in doubt, see someone now.; Any or all of these are possibilities. Women are complex. See the gynecologist and sort out what is going on. You will be much better for it. Karen</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/nexium-put-azithromycin-zpak-ear-infection-747525.html</Data></Cell>
+    <Cell><Data ss:Type="String">Is it okay to take nexium if I was put on azithromycin or zpak for an ear infection?</Data></Cell>
+    <Cell><Data ss:Type="String">Yes, it is fine to take Nexium while you are taking azithromycin.; There are no known interactions between these medicines. However, it does not mean that no interactions exist so if you do experience any odd symptoms please see your doctor.; https://www.drugs.com/interactions-check.php?drug_list=300-0,1015-567</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/creates-memory-loss-ambien-trazodone-747543.html</Data></Cell>
+    <Cell><Data ss:Type="String">Which creates more memory loss ambien or trazodone?</Data></Cell>
+    <Cell><Data ss:Type="String">We really do not have any long term data focused on memory loss after Ambien usage. We also do not have any data about the combination of Trazodone and Ambien and its effect on memory after long term use.&#10;I suggest you work with a specialist on assessing your current mental ability and try to recover or keep whatever is still left. It would also be advisable that you and your Dr. eliminate the possibility that there might be an entirely different medication unrelated reason for your condition.; Why would you continue to take something that is affecting your memory? Get to the Dr and explain. Take something else and try to come off of those medications or the combination of both. Good luck</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/effective-antibiotic-cellulitis-amox-tr-clv-747615.html</Data></Cell>
+    <Cell><Data ss:Type="String">Which is a more effective antibiotic for Cellulitis? Amox TR-K CLV or Sulfamethoxazole-TMP DS?</Data></Cell>
+    <Cell><Data ss:Type="String">Actually for an infection like that, I'd prefer a something like Keflex. If you're thinking of taking a left antibiotic, don't. See a dr. You won't have enough and cellulitis is sometimes difficult to resolve.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/prednisone-fluocinonide-desonide-together-747623.html</Data></Cell>
+    <Cell><Data ss:Type="String">Should I be using Prednisone, Fluocinonide, and Desonide together?</Data></Cell>
+    <Cell><Data ss:Type="String">Your dr probably orders that for everyone with bad poison. The creams don't put allot of cortisone into your blood, and they are a low amount of cortisone. Prednisone 10 mg for 2 weeks isn't a very high dose. Its not going to hurt you.; I agree. I used to get poison ivy every summer. Nasty stuff. The creams simply don't go into the blood streams enough to cause a problem. Prednisone is very low dose. Hope it clears quickly for you. And do not use a calamine lotion on it with an antihistamine. Makes the rash worse,; Just a fun fact. Cat tails which are often found near water cures poison Ivy almost instantly. You break the stalk in half and the milky fluid found inside is rubbed over the area. When I was a scout we rubbed poison ivy on our arm and when the itching started we rubbed the milk on our arms. It stopped the itching almost immediately. Another proven home cure is putting wet tobacco on the site of a bee sting. It stops the pain within minutes.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/sulfamethoxazole-trimethoprim-treat-conjunctivitis-747625.html</Data></Cell>
+    <Cell><Data ss:Type="String">Can sulfamethoxazole /trimethoprim be used to treat conjunctivitis?</Data></Cell>
+    <Cell><Data ss:Type="String">Sulfamethoxazole /trimethoprim is not used to treat conjunctivitis.; Treatment of conjunctivitis depends on the cause.&#10;Viruses are the most common cause. Other causes include allergy and bacteria.; Allergic conjunctivitis may respond to allergy treatment. It may disappear on its own when you avoid your allergy triggers.; Antibiotic medication, usually eye drops, is effective for bacterial conjunctivitis.; Viral conjunctivitis will disappear on its own. Many doctors give a mild antibiotic eyedrops for viral conjunctivitis to prevent bacterial conjunctivitis.; You can soothe the discomfort of viral or bacterial conjunctivitis by applying warm compresses (clean cloths soaked in warm water) to your closed eyes.; https://www.drugs.com/health-guide/pinkeye-conjunctivitis.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/trazadoe-sleep-good-people-bipolar-disorder-747636.html</Data></Cell>
+    <Cell><Data ss:Type="String">Is trazadoe for sleep good for people with bipolar disorder?</Data></Cell>
+    <Cell><Data ss:Type="String">Trazadone is actually for depression but has been used for sleep which is one of its side effects. Ask your Dr about weaning yourself off the Ativan as most Drs would not prescribe both of these meds together. Withdrawal should be minimal if you slowly wean off Ativan. It is great that you want to make this switch and cut your self off Ativan. Good luck to you; The doctor diagnosed me with bipolar and I have been on trazadone with a combination of 2 other medications for 5 years now and it works great! It does cause drowsiness so make sure you don't get too high of a dose.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/aldactone-deal-side-effects-dilatrol-carvedilol-747641.html</Data></Cell>
+    <Cell><Data ss:Type="String">Aldactone - how to deal with side effects of dilatrol (carvedilol) ?</Data></Cell>
+    <Cell><Data ss:Type="String">Talk with your doctor again. Sometimes side effects settle with time as the body adjusts. Your Dad may need to try for another week or two. If the fatigue does not go away your doctor may need to try a different medicine or reduce the dosage.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/doctor-prescriped-wellbutrin-xl-150mg-day-747683.html</Data></Cell>
+    <Cell><Data ss:Type="String">My doctor has prescriped me wellbutrin xl 150mg to be taken twice a day. Is this ok?</Data></Cell>
+    <Cell><Data ss:Type="String">Its ok if you've been on it. Its a little high for a starting dose. Did he say to start with one a day for a few days?; Hello SSLucas, &#10;Wellbutrin SR 150 is intended for twice daily dosage. XL is typically prescribed for once daily. Your MD could have reasoning for prescribing your meds based on your metabolism, history and condition. I am not a doctor not am I a health professional. I would right away call his/her office and also the pharmacy to verify how it was indeed prescribed. Good job reading up on your meds and being your own advocate. &#10;Best Regards, &#10;4N Substances</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/17-years-confused-birth-control-pregnancy-747701.html</Data></Cell>
+    <Cell><Data ss:Type="String">Im 17 years old and am confused about my birth control and pregnancy?</Data></Cell>
+    <Cell><Data ss:Type="String">First let me clear up a myth for you. While birth control is very effective if taken without fail and as directed, take Drs advice concerning missed days. Drs usually advise to use a condom when you first start on birth control. Second withdrawing before ejaculation is a VERY unreliable form of birth control as a women can get pregnant on pre-ejaculation which biologically speaking acts as a way for the sperm to more easily swim upstream. The only way to find out is by doing a home pregnancy test.; There is a slim chance you are pregnant. If you're taking it perfectly it is 99% effective. Don't worry about it until you are thru the inactive pills. Plan B was not needed and you shouldn't have taken it. It will mess up your cycle. You're already taking extra hormones and now you've added more to it. The pill is the most effective form of birth control, If I worried about pregnant so much I felt I needed more then just that, I think I'd give up sex.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">https://www.drugs.com/answers/client-medicaid-medicare-compound-medication-747705.html</Data></Cell>
+    <Cell><Data ss:Type="String">My client has medicaid and medicare and needs help w/a compound medication?</Data></Cell>
+    <Cell><Data ss:Type="String">Hello Isabel and welcome to DC. I am not sure what you are asking. Is it possible to get your &quot;client&quot; or patient on another medication that is covered? My pdoc is pretty good with that stuff, for instance. I wouldn't even offer another suggestion without knowing what that person is being treated for. Are you trying to go with compounded? You won't get that compounded, by the way. So have you tried to get a script filled at a regular pharmacy and the cost is prohibitive - to high?; Can you give more information please...; Mary; Hi - I get 7 of my medications compounded, pay for them out-of-pocket and submit them to my insurance for reimbursement. Very expensive! The only way my insurer will pay is if I have a documented allergy to an ingredient that is present in all the different brand name and generics of that medication or to those similar to it. The research is outrageous! Pharmacies help some but don't have the time to research much - so I do it. Anyway, without an allergy it isn't likely they will pay. There are many different manufacturers of this medication. Have you asked the pharmacy to try a different manufacturer or go to another pharmacy for one? There are so many different inactive ingredients - each med contains the same active ingredient, but the inactives can make it an entirely different med. usually a med that has generics is made by 4 or 5 different companies. Go to pillbox.com, the one by NIH, and search the med there and you will see. And if your client can get approval to see an allergist perhaps he/she can find out the source of the problem. Another option might be to try a different pain med, even Oxycodone with a lower strength. Regards - ElizaJane</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <PageLayoutZoom>0</PageLayoutZoom>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
